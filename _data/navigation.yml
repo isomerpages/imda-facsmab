@@ -1,0 +1,19 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Faq
+    url: /faq/
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Shared Frequencies
+    collection: shared-frequencies
+  - title: Media Centre
+    resource_room: true
