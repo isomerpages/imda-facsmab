@@ -7,6 +7,14 @@
 logo: /images/isomer-logo.svg
 
 links:
+  - title: HOME
+    url: /
+  - title: ABOUT US
+    url: /about-us/
+  - title: EVENTS
+    url: /events/
+  - title: PUBLICATION
+    url: /publication/
   - title: Contact Us
     url: /contact-us/
   - title: Faq

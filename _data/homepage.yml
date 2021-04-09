@@ -1,0 +1,74 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon.ico
+
+# Agency logo
+agency-logo: /images/logo.jpg
+
+# Google analytics
+google-analytics: UA-82296306-1
+
+# AskJamie
+ask-jamie: non-empty string
+
+# Hero Banner
+hero-title: 
+hero-subtitle:
+hero-banner: /images/main_banner1.jpg
+
+
+# Hero Banner
+hero-title: LATEST PUBLICATIONS
+hero-subtitle: 20TH REVIEW MEETING 3rd May 2019
+hero-banner: /images/bg_publication.jpg
+
+#Call to Action Button
+button:
+  - text: LEARN MORE
+    url: /Publications/Past-Publication/20TH-Facsmab-Review-Meeting-3rd-May-2019
+    
+# Key Highlights
+key-highlights:
+  - title: PRODUCTS AND SERVICES
+    description: Programmes for citizens, businesses and government agencies
+    url: https://www.tech.gov.sg/products-and-services/?utm_source=hero_banner
+    external: true
+  - title: DIGITAL GOVERNMENT BLUEPRINT
+    description: To create a Government that is “Digital to the Core, and Serves with Heart"
+    url: /digital-government-blueprint/?utm_source=hero_banner
+  - title: SUBSCRIBE TO TECHNEWS
+    description: Get the latest tech stories and updates from GovTech
+    url: /media/technews/subscribe
+    external: true
+  - title: JOIN US
+    description: Unleash your passion and potential with us
+    url:  https://go.gov.sg/govtechjobs
+    external: true
+
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/?utm_source=media_homepage
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+careers-title: Careers
+careers-subtitle: Be part of the digital transformation
+careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
+careers-more-button: Explore Opportunities
+careers-more-button-url: /careers/overview
+
