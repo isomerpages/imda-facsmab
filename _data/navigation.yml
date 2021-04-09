@@ -4,16 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/logo.jpg
 
 links:
+  - title: HOME
+    url: /
+  - title: ABOUT US
+    url: /about-us/
+  - title: EVENTS
+    url: /events/
+  - title: PUBLICATION
+    url: /publication/
   - title: Contact Us
     url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Shared Frequencies
-    collection: shared-frequencies
-  - title: Media Centre
     resource_room: true
+    
