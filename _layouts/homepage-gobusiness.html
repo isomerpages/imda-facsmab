@@ -1,37 +1,9 @@
 ---
 layout: skeleton
 ---
-<head>
-  <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
-</head>
 <body>
   <link rel="stylesheet" href="/assets/styles/main.css">
-  <style>
-	.slider{
-	width:400px;
-	margin:20px auto;
-	text-align: center;
-	padding:20px;
-	color:white;
-	}
-	.parent-slide{padding:15px;}
-  	img{display: block;margin:auto;}
-  </style>
-  <script>
-	  window.onload=function(){
-		$('.slider').slick({
-		autoplay:true,
-		autoplaySpeed:1500,
-		arrows:true,
-		prevArrow:'<button type="button" class="slick-prev slick-arrow"></button>',
-		nextArrow:'<button type="button" class="slick-next slick-arrow"></button>',
-		centerMode:true,
-		slidesToShow:3,
-		slidesToScroll:1
-		});
-		};
-  </script>
-  <!-- <section class="carousel-banner slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow"
+  <section class="carousel-banner slick-initialized slick-slider slick-dotted"><button class="slick-prev slick-arrow"
       aria-label="Previous" type="button" style="display: block;">Previous</button>
     <div class="slick-list draggable">
       <div class="slick-track" style="opacity: 1; width: 12288px;">
@@ -100,27 +72,7 @@ layout: skeleton
       <li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control05"
           aria-controls="slick-slide05" aria-label="6 of 6" tabindex="0" aria-selected="true">6</button></li>
     </ul>
-  </section> -->
-  <div class="slider">
-	<div class="slide">
-	  <img src="/assets/images/main_banner6_r1.jpg" alt="" class="img-responsive" />
-	</div>
-	<div class="slide">
-	  <img src="/assets/images/main_banner5_r2.jpg" alt="" class="img-responsive" />
-	</div>
-	<div class="slide">
-	  <img src="/assets/images/main_banner4_r4.jpg" alt="" class="img-responsive" />
-	</div>
-	<div class="slide">
-	  <img src="/assets/images/main_banner3.jpg" alt="" class="img-responsive" />
-	</div>
-	<div class="slide">
-	  <img src="/assets/images/main_banner2.jpg" alt="" class="img-responsive" />
-	</div>
-	<div class="slide">
-	  <img src="/assets/images/main_banner1.jpg" alt="" class="img-responsive" />
-	</div>
-  </div>
+  </section>
   <section class="about-section">
     <div class="container container--mw1140">
       <div class="col-6">
@@ -302,9 +254,6 @@ layout: skeleton
   </section>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="/assets/scripts/main.js"></script>
   <script src="/jquery/jquery.min.js"></script>
   <script src="/jquery/scroll-top.js"></script>
