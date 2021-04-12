@@ -3,6 +3,39 @@ title: Top management
 permalink: /about-us/top-management
 ---
 <div class="section-content">
+   <style>
+  .profile-card {
+    background-color: #fff;
+    border: 1px solid #efefef;
+    margin: 10px 0;
+    box-shadow: 0 0 3px rgb(0 0 0 / 10%);
+    padding: 10px;
+}
+.profile-image {
+    padding: 10px;
+    width: 80px!important;
+    height: 80px!important;
+}
+.profile-description {
+    padding-left: 20px;
+}
+@media (min-width: 1025px) {
+.col-2 {
+    width: 16.6666666667%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+}
+@media (min-width: 1025px) {
+.col-10 {
+    width: 83.3333333333%;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+}
+}
+</style>
    <h1>Top Management</h1>
    <div class="profile-card">
       <div class="container container--mw1140">
