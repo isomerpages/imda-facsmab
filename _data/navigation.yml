@@ -11,11 +11,18 @@ links:
     url: /
   - title: ABOUT US
     url: /about-us/
-  - title: EVENTS
-    url: /events/
-  - title: PUBLICATION
-    url: /publication/
-  - title: Contact Us
-    url: /contact-us/
-    resource_room: true
-    
+    sublinks:
+      - title: Home
+        url: /
+      - title: About Us
+        url: /about-us/
+      - title: History
+        url: /about-us/history
+      - title: Members
+        url: /about-us/members
+      - title: Roles
+        url: /about-us/roles
+      - title: Top Management
+        url: /about-us/top-management
+  - title: <img src="/images/login-btn.svg" alt="login-btn">
+    url: /login/?src=top_nav
