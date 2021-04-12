@@ -1,4 +1,4 @@
 ---
-title: About Us
+title: Members
 permalink: /about-us/members
 ---

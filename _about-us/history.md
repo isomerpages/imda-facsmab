@@ -1,4 +1,4 @@
 ---
-title: About Us
+title: History
 permalink: /about-us/history
 ---
