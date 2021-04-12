@@ -33,4 +33,4 @@ contacts:
 
 #### Related content
 
-{% include brought_to_you.html panels=site.data.brought_to_you %}
+{% include brought-to-you.html panels=site.data.brought_to_you %}
