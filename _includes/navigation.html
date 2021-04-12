@@ -1,0 +1,64 @@
+<nav class="navbar is-transparent">
+  <div class="bp-container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="/">
+        <img
+          src="https://d33wubrfki0l68.cloudfront.net/8527e249225f90f6b92db72f17f30b1ac72d03cc/b8be7/images/gobiz_logo_sg.svg"
+          alt="Homepage"
+          style="
+                      max-height: 75px;
+                      max-width: 200px;
+                      height: auto;
+                      width: auto;
+                    " />
+      </a>
+      <div
+        class="navbar-burger burger"
+        data-target="navbarExampleTransparentExample">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+    <div
+      id="navbarExampleTransparentExample"
+      class="bp-container is-fluid margin--none navbar-menu">
+      <div class="navbar-start">
+        <div class="navbar-item is-hidden-widescreen is-search-bar">
+          <form action="/search/" method="get">
+            <div class="field has-addons">
+              <div class="control has-icons-left is-expanded">
+                <input
+                  class="input is-fullwidth"
+                  id="search-box-mobile"
+                  type="text"
+                  placeholder="What are you looking for?"
+                  name="query" />
+                <span class="is-large is-left">
+                  <i class="sgds-icon sgds-icon-search search-bar"></i>
+                </span>
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a href="/about-us/" class="navbar-link is-uppercase">ABOUT US</a>
+          <div class="navbar-dropdown">
+            <a href="/about-us/" class="navbar-item sub-link">About Us</a>
+            <a href="/about-us/history" class="navbar-item sub-link">History</a>
+            <a href="/about-us/members" class="navbar-item sub-link">Members</a>
+            <a href="/about-us/roles" class="navbar-item sub-link">Roles</a>
+            <a href="/about-us/top-management" class="navbar-item sub-link">Top Management</a>
+          </div>
+          <div
+            class="selector is-hidden-touch is-hidden-desktop-only"></div>
+        </div>
+        <div class="navbar-item">
+          <a href="#" class="navbar-item is-uppercase break-mobile"
+            style="height:100%;width:100%;">Login</a>
+          <div class="selector is-hidden-touch is-hidden-desktop-only"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
