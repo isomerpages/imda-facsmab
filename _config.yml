@@ -20,6 +20,8 @@ colors:
 
 
 collections:
+  about-us:
+    output: true
   shared-frequencies:
     output: true
 resources_name: media-centre
