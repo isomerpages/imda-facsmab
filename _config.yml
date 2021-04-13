@@ -24,7 +24,7 @@ collections:
     output: true
   events:
     output: true
-  puplications:
+  publications:
     output: true
   shared-frequencies:
     output: true
