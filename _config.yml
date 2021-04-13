@@ -22,9 +22,9 @@ colors:
 collections:
   about-us:
     output: true
-  event:
+  events:
     output: true
-  puplication:
+  puplications:
     output: true
   shared-frequencies:
     output: true
