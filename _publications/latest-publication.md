@@ -1,6 +1,6 @@
 ---
 title: Latest Publication
-permalink: /Publications/Latest-Publication
+permalink: /Publications
 
 ---
 <div class="section-content">
