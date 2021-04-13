@@ -1,7 +1,6 @@
 ---
 title: FACSMAB
 permalink: /Events/FACSMAB
-
 ---
 <div class="section-content">
    <style>
