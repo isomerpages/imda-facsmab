@@ -1,6 +1,6 @@
 ---
 title: Past Publication
-permalink: /Publications/Photo-Gallery/
+permalink: /Publications/Photo-Gallery
 
 ---
 <style>

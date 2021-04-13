@@ -1,6 +1,6 @@
 ---
 title: Past Publication
-permalink: /Publications/newsroom/
+permalink: /Publications/newsroom
 
 ---
 <h1>Newsroom</h1>

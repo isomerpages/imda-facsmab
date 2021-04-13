@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-permalink: /Events/Upcoming-Events/
+permalink: /Events/Upcoming-Events
 
 ---
 <div class="section-content">

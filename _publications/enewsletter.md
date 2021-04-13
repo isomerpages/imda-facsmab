@@ -1,6 +1,6 @@
 ---
 title: E-Newsletter
-permalink: /Publications/E-Newsletter/
+permalink: /Publications/E-Newsletter
 
 ---
 <div class="section-content">

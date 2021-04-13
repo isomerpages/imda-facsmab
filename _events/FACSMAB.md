@@ -1,6 +1,6 @@
 ---
 title: FACSMAB
-permalink: /Events/FACSMAB/
+permalink: /Events/FACSMAB
 
 ---
 <div class="section-content">

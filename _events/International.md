@@ -1,6 +1,6 @@
 ---
 title: International
-permalink: /Events/International/
+permalink: /Events/International
 
 ---
 <div class="section-content">

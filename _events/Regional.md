@@ -1,6 +1,6 @@
 ---
 title: Regional
-permalink: /Events/Regional/
+permalink: /Events/Regional
 
 ---
 <div class="section-content">
