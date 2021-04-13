@@ -4,7 +4,7 @@
 #                                #
 ##################################
 
-logo: /assets/images/logo.jpg
+logo: assets/images/logo.jpg
 
 links:
   - title: HOME
@@ -20,3 +20,25 @@ links:
         url: /about-us/roles
       - title: Top Management
         url: /about-us/top-management
+  - title: EVENTS
+    url: Events/FACSMAB
+    sublinks:
+      - title: Upcoming Events
+        url: Events/Upcoming-Events
+      - title: Regional
+        url: /Events/Regional
+      - title: International
+        url: /Events/International
+  - title: PUBLICATIONS
+    url: Publications/Latest-Publication
+    sublinks:
+      - title: Latest Publication
+        url: Publications/Latest-Publication
+      - title: Past Publication
+        url: Publications/Past-Publication
+      - title: Newsroom
+        url: Publications/Newsroom
+      - title: Photo-Gallery
+        url: Publications/Photo-Gallery
+      - title: E-Newsletter
+        url: Publications/E-Newsletter

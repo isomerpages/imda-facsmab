@@ -1,0 +1,121 @@
+<style>
+    ul.jekyllcodex_accordion {
+        position: relative;
+        margin: 1.4rem 0!important; 
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        padding-bottom: 0;
+    }
+    
+    ul.jekyllcodex_accordion li {
+        border-top: 1px solid rgba(0,0,0,0.25);
+        list-style: none;
+        margin-left: 0;
+    }
+    
+    ul.jekyllcodex_accordion li input {
+        display: none;
+    }
+    
+    ul.jekyllcodex_accordion li label {
+        display: block;
+        cursor: pointer;
+        padding: 0.75rem 2.4rem 0.75rem 0;
+        margin: 0; 
+        font-size: 20px;
+        font-family: "HK Nova",sans-serif;
+        color: #000000;
+    }
+    
+    ul.jekyllcodex_accordion li div {
+        padding: 0;
+        height: 0;
+        overflow: hidden; 
+        transition: height 0.4s ease-in-out;
+    }
+    
+    ul.jekyllcodex_accordion li input:checked + label {
+        font-weight: bold;
+    }
+    
+    ul.jekyllcodex_accordion li input:checked + label + div {
+        display: block;
+        height: auto;
+        padding: 0;
+        overflow: visible;
+    }
+    
+    ul.jekyllcodex_accordion li label::before {
+        content: "+"; 
+        color: #037e8a;
+        font-weight: normal;
+        font-size: 130%;
+        line-height: 1.1rem; 
+        padding: 0; 
+        position: absolute; right: 0.5rem; 
+        transition: all 0.15s ease-in-out;
+    }
+    
+    ul.jekyllcodex_accordion li input:checked + label::before {
+        transform: rotate(-45deg);
+    }
+    
+    ul.jekyllcodex_accordion li ul li { 
+        list-style-type: disc; 
+        border-top: 0; 
+    }
+    
+    ul.jekyllcodex_accordion li ol li { 
+        list-style-type: decimal; 
+        border-top: 0; 
+    }
+    .accordion .accordion-description {
+        display: none;
+        padding-top: 20px;
+    }
+    .btn--yellow {
+        background-color: #ecb300;
+        margin: 5px 10px;
+    }
+    .btn--red {
+        background-color: #e54b3f;
+        margin: 5px 10px;
+    }
+    .btn--blue {
+        background-color: #3b95e1;
+        margin: 5px 10px;
+    }
+    .btn--small {
+        font-size: 1em;
+        padding: 0 15px;
+        color: #fff;
+        border-radius: 5px;
+    }
+    .btn {
+        text-decoration: none;
+        color: #3b95e1;
+        font-size: 1em;
+        font-weight: 400;
+        padding: 3px 20px;
+        text-transform: uppercase;
+        margin: 0 20px 0 0;
+        border-radius: 3px;
+        display: inline-block;
+    }
+</style>
+    
+<ul class="jekyllcodex_accordion">
+    {% for item in page.accordion-new %}
+        <li><input id="accordion-new{{ forloop.index }}" type="checkbox" /><label for="accordion-new{{ forloop.index }}">{{ item.title }}</label>
+            <div class="accordion-description" style="display: block;">
+                <p><strong>{{ item.subtitle }}</strong></p>
+                <p>{{ item.detail }}</p>
+                {% if item.link != "x" %}
+                <a href="{{ item.link }}" class="btn btn--small {{ item.color }}">Read More</a>
+                {% endif %}
+             </div>
+        </li>
+    {% endfor %}
+</ul>
+    
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/scroll-top.js"></script>

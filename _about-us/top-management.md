@@ -3,7 +3,7 @@ title: Top management
 permalink: /about-us/top-management
 ---
 <div class="section-content">
-   <style>
+<style>
   .profile-card {
     background-color: #fff;
     border: 1px solid #efefef;
@@ -58,7 +58,7 @@ permalink: /about-us/top-management
          <div class="col-2 profile-image"><img alt="" height="113" width="61" src="/assets/images/Aileen-Chia-5.jpg" style="height: 113px; width: 61px;"></div>
          <div class="col-10 profile-description">
             <p>Aileen Chia </p>
-            <p><span style="text-align: left; letter-spacing: normal; text-decoration: none; background-color: transparent; color: #000000;">Director-General (Telecoms &amp; Post)&nbsp;</span><br><span style="text-align: left; letter-spacing: normal; text-decoration: none; background-color: transparent; color: #000000;">Deputy Chief Executive (Policy, Regulation and Competition Development)</span><br>Infocomm Media Development Authority<br><br>Member, Competition Commission of Singapore<br><br>Ms Chia Aileen is currently the Assistant Chief Executive and Director-General (Telecoms and Post) of the IMDA. Ms Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm media and postal sectors in Singapore through the development and implementation of policy and regulatory frameworks, and development strategies for these sectors.<br><br>She is also a member on the Competition Commission of Singapore.<br><br>She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.<br><br></p>
+            <p>Director-General (Telecoms &amp; Post)&nbsp;</span><br>Deputy Chief Executive (Policy, Regulation and Competition Development)</span><br>Infocomm Media Development Authority<br><br>Member, Competition Commission of Singapore<br><br>Ms Chia Aileen is currently the Assistant Chief Executive and Director-General (Telecoms and Post) of the IMDA. Ms Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm media and postal sectors in Singapore through the development and implementation of policy and regulatory frameworks, and development strategies for these sectors.<br><br>She is also a member on the Competition Commission of Singapore.<br><br>She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.<br><br></p>
          </div>
       </div>
    </div>

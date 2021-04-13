@@ -5,10 +5,10 @@
 ##################################
 
 # Favicon
-favicon: /assets/images/favicon.ico
+favicon: /images/favicon.ico
 
 # Agency logo
-agency-logo: /assets/images/logo.jpg
+agency-logo: /images/logo.jpg
 
 # Google analytics
 google-analytics: UA-82296306-1
