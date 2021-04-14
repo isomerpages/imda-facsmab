@@ -26,6 +26,8 @@ collections:
     output: true
   publications:
     output: true
+  _past_publication:
+    output: true
   shared-frequencies:
     output: true
 resources_name: media-centre
