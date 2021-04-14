@@ -2,28 +2,28 @@
   subtitle: 25 April 2016
   detail: AITI had conducted a PCP on Amateur Radio Single Prefix Call Signs. The aim is to seek views from Amateur Radio enthusiasts on the proposal for Amateur Radio Single Prefix Call signs which may be introduced by AITI. This is also to provide opportunity for Amateur Radio enthusiasts to provide their feedback and partake in the process of exploring the possibility of introducing Amateur Radio Single Prefix Call Sign.
   link: http://www.aiti.gov.bn/downloadables/Downloadables%20Library/CONSULTATION%20Paper%20for%20Single%20Prefix[3].pdf
-  color: .btn--yellow
+  color: btn--yellow
   
 - title: 900 MHz Spectrum Rights to DST
   subtitle: 15 April 2016
   detail: AITI has granted the Spectrum Rights for the band 910-915 MHz/ 955-960 MHz to DataStream Technology Sdn Bhd (DST). It is for the deployment of UMTS technology in 900 MHz band.
   link: x
-  color: .btn--yellow
+  color: btn--yellow
   
 - title: Brunei Darussalam Radio Spectrum Plan Book
   subtitle: 20 May 2015
   detail: Launching of Brunei Darussalam Radio Spectrum Plan Book. To provides a clear picture on how the radio frequency is currently utilised in Brunei Darussalam and how AITI plans to develop it further in the future.
   link: http://www.aiti.gov.bn/downloadables/Downloadables%20Library/Brunei%20Darussalam%20Radio%20Spectrum%20Plan%202014-2015.pdf
-  color: .btn--yellow
+  color: btn--yellow
   
 - title: 1800 MHz Spectrum Rights
   subtitle: 05 December 2013
   detail: AITI has granted the Spectrum Rights for the band 1765-1785 MHz/ 1860-1880 MHz to DataStream Technology Sdn Bhd (DST). It is for the deployment of LTE technology in 1800 MHz band.
   link: x
-  color: .btn--yellow
+  color: btn--yellow
   
 - title: AITI conducts CommunicAsia 2013 Briefing
   subtitle: 18 January 2013
   detail: AITI conducts CommunicAsia 2013 Briefing.
   link: x
-  color: .btn--yellow
+  color: btn--yellow
