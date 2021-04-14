@@ -1,5 +1,5 @@
 ---
-title: Past Publication
+title: Photo Gallery
 permalink: /Publications/Photo-Gallery
 
 ---
