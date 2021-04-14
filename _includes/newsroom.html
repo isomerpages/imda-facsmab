@@ -105,7 +105,7 @@
     
 <ul class="jekyllcodex_accordion">
     {% for item in include.accordion-new %}
-        <li><input id="accordion-new{{ forloop.index }}" type="checkbox" /><label for="accordion-new{{ forloop.index }}">{{ item.title }}</label>
+        <li><input id="accordion-new{{ forloop.index }}{{ item.color }}" type="checkbox" /><label for="accordion-new{{ forloop.index }}{{ item.color }}">{{ item.title }}</label>
             <div class="accordion-description" style="display: block;">
                 <p><strong>{{ item.subtitle }}</strong></p>
                 <p>{{ item.detail }}</p>
