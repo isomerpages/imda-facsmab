@@ -1,7 +1,7 @@
 ---
-title: Past Publication
-permalink: /Publications/Past-Publication
-
+title: Overview
+permalink: /Publications/Overview
+third_nav_title: Past Publications
 ---
 <h1>PAST PUBLICATION</h1>
 
