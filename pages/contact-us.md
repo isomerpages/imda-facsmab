@@ -12,10 +12,10 @@ permalink: /contact-us/
                <p style="text-align: left;">Brunei Darussalam:<br><a href="mailto:facsmab.portal@aiti.gov.bn">facsmab.portal@aiti.gov.bn</a></p>
             </td>
             <td>
-               <p style="text-align: left;"><img alt="imda logo" src="/assets/images/IMDA_logo.png?h=52&amp;w=200&amp;la=en&amp;hash=B9E391DB1489A6829EF4B6EE4D2DA7538CD9226C" style="height: 52px; width: 200px;"></p>
+               <p style="text-align: left;"><img alt="imda logo" src="/assets/images/IMDA_logo.png?h=52&amp;w=200&amp;la=en&amp;hash=B9E391DB1489A6829EF4B6EE4D2DA7538CD9226C" style="height: 84px; width: 200px;"></p>
                <p style="text-align: left;">Singapore:<br><a href="mailto:facsmab_portal_admin@imda.gov.sg">facsmab_portal_admin@imda.gov.sg</a></p>
             </td>
-            <td style="text-align: left;"><img alt="" height="83" width="199" src="/assets/images/logo_mcmc.png?h=83&amp;w=199&amp;la=en&amp;hash=137557A94BA6684065619B67CD4F0FFA32B91380">&nbsp;<br>Malaysia: <br><a href="mailto:mcmc.facsmab@cmc.gov.my">mcmc.facsmab@cmc.gov.my</a></td>
+            <td style="text-align: left;"><img alt="" height="84" width="199" src="/assets/images/logo_mcmc.png?h=83&amp;w=199&amp;la=en&amp;hash=137557A94BA6684065619B67CD4F0FFA32B91380"><br>Malaysia: <br><a href="mailto:mcmc.facsmab@cmc.gov.my">mcmc.facsmab@cmc.gov.my</a></td>
          </tr>
       </tbody>
    </table>
