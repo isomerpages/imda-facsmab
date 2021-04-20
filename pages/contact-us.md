@@ -8,13 +8,13 @@ permalink: /contact-us/
       <tbody>
          <tr>
             <td>
-               <p><img alt="" src="/assets/images/AITI_logo.png" style="float: left; height: 84px; width: 200px;">
+               <img alt="" src="/assets/images/AITI_logo.png" style="float: left; height: 84px; width: 200px;">
             </td>
             <td>
-               <p style="text-align: left;"><img alt="imda logo" src="/assets/images/IMDA_logo.png" style="height: 52px; width: 200px;">
+               <img alt="imda logo" src="/assets/images/IMDA_logo.png" style="height: 52px; width: 200px;">
             </td>
             <td> 
-              <p style="text-align: left;"><img alt="" height="84" width="199" src="/assets/images/logo_mcmc.png">
+              <img alt="" height="84" width="199" src="/assets/images/logo_mcmc.png">
             </td>
          </tr>
          <tr>
