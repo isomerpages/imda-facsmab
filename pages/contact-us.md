@@ -3,6 +3,14 @@ title: Contact Us
 permalink: /contact-us/
 ---
 <div class="section-content">
+  <style>
+    .content table td, .content table th {
+        border: none;
+        border-width: 0 0 1px;
+        padding: .5em .75em;
+        vertical-align: top;
+    }
+  </style>
    <h1>Contact Us</h1>
    <table>
       <tbody>
