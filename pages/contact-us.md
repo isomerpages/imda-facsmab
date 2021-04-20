@@ -1,32 +1,22 @@
 ---
-layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
 ---
+<div class="section-content">
+   <h1>Contact Us</h1>
+   <table>
+      <tbody>
+         <tr>
+            <td>
+               <p><img alt="" src="/assets/images/AITI_logo.png?h=84&amp;w=200&amp;la=en&amp;hash=939F7E98B837AFA1E9F56A2F75EA6E8C14B18388" style="float: left; height: 84px; width: 200px;"></p>
+               <p style="text-align: left;">Brunei Darussalam:<br><a href="mailto:facsmab.portal@aiti.gov.bn">facsmab.portal@aiti.gov.bn</a></p>
+            </td>
+            <td>
+               <p style="text-align: left;"><img alt="imda logo" src="/assets/images/IMDA_logo.png?h=52&amp;w=200&amp;la=en&amp;hash=B9E391DB1489A6829EF4B6EE4D2DA7538CD9226C" style="height: 52px; width: 200px;"></p>
+               <p style="text-align: left;">Singapore:<br><a href="mailto:facsmab_portal_admin@imda.gov.sg">facsmab_portal_admin@imda.gov.sg</a></p>
+            </td>
+            <td style="text-align: left;"><img alt="" height="83" width="199" src="/assets/images/logo_mcmc.png?h=83&amp;w=199&amp;la=en&amp;hash=137557A94BA6684065619B67CD4F0FFA32B91380">&nbsp;<br>Malaysia: <br><a href="mailto:mcmc.facsmab@cmc.gov.my">mcmc.facsmab@cmc.gov.my</a></td>
+         </tr>
+      </tbody>
+   </table>
+</div>
