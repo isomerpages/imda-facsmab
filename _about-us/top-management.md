@@ -36,7 +36,7 @@ permalink: /about-us/top-management
 }
 }
 </style>
-   <h1>Top Management</h1>
+   <h2>Top Management</h2>
    <div class="profile-card">
       <div class="container container--mw1140">
          <div class="col-2 profile-image"><img alt="" class=" ls-is-cached lazyloaded" style="width: 60px; height: 80px;" src="/assets/images/zain.png"></div>

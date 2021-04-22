@@ -4,7 +4,7 @@ permalink: /Publications
 
 ---
 <div class="section-content">
-   <h1>LATEST PUBLICATION</h1>
+   <h2>LATEST PUBLICATION</h2>
    <p><strong>BRUNEI DARUSSALAM HOSTED THE 20TH FACSMAB REVIEW MEETING</strong></p>
    <p><strong><img alt="" src="/assets/images/main_banner6_r2_SMALL.jpg" style="width: 502.333px; height: 286.333px;"></strong></p>
    <p style="text-align: justify;"><span>The 20<sup>th</sup> FACSMAB Review Meeting was hosted by AITI on 3<sup>rd</sup> May 2019 at The Empire Hotel And Country Club, Brunei Darussalam. The meeting was chaired by Mr. Pengiran Hj Mohd Zain, Chief Executive of AITI and was attended by members from Regulatory Authorities from Brunei Darussalam, Malaysia and Singapore. YBhg. Dato' Mohd Ali Hanafiah bin Mohd Yunus, Chief Officer, Corporate Sector of MCMC and Ms Aileen Chia, Deputy Chief Executive (Policy, Regulation and Competition Development) / Director-General (Telecoms &amp; Post) of IMDA led the Malaysian and Singaporean delegations respectively. </span></p>

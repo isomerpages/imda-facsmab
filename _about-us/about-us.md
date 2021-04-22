@@ -4,7 +4,7 @@ permalink: /about-us/
 
 ---
 <div class="section-content">
-   <h1></h1>
+   <h2></h2>
    <p><span style="font-size: 24px; color: #333333;">WHAT IS&nbsp;</span><span class="bold-title-font" style="margin: 0px; padding: 0px; border: 0px; font-size: 24px; color: #333333;"><strong>FACSMAB</strong></span>&nbsp;</p>
    <p>FACSMAB is Frequency Assignment Committee, Singapore, Malaysia And Brunei Darussalam. The objective of the committee is to manage coordination of radio spectrum at the border areas of Brunei Darussalam, Malaysia and Singapore since 1948.</p>
    <p>FACSMAB was established since 1948 to deal with the day-to-day civil &amp; service frequency assignments in South East Asia, within the sphere of the British Governor General. The constitutions and memberships of FACSMAB underwent several changes with the withdrawal of the British Forces in 1959, the formation of Malaysia in 1963 and Singapore’s independence in 1965.</p>

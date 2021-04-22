@@ -4,7 +4,7 @@ permalink: /Publications/E-Newsletter
 third_nav_title: E-Newsletter
 ---
 <div class="section-content">
-   <h1>E-Newsletter</h1>
+   <h2>E-Newsletter</h2>
    <p>The FACSMAB also fosters closer ties with our members through the FACSMAB E-Newsletter which is issued per FACSMAB Review Meeting. The publication serves as a vital medium for the committee to disseminate telecommunications related information, activities, development, events and other related news on the region to FACSMAB members and outsiders. It also features highlights of recent and forthcoming work items, and meetings.</p>
    <ul>
       <li><a href="/Publications/E-Newsletter/17th-Review-Meeting" >17th Review Meeting</a></li>

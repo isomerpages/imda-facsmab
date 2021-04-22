@@ -3,7 +3,7 @@ title: Members
 permalink: /about-us/members
 ---
 <div class="section-content">
-   <h1>Members of FACSMAB</h1>
+   <h2>Members of FACSMAB</h2>
    <table>
       <tbody>
          <tr>
@@ -22,7 +22,7 @@ permalink: /about-us/members
          </tr>
       </tbody>
    </table>
-   <h1>Structure of FACSMAB</h1>
+   <h2>Structure of FACSMAB</h2>
    <p>&nbsp;<img alt="structure" src="/assets/images/Structure.jpg" style="height: 386px; width: 700px;"></p>
    <p>&nbsp;</p>
 </div>

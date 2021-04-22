@@ -11,7 +11,7 @@ permalink: /contact-us/
         vertical-align: top;
     }
   </style>
-   <h1>Contact Us</h1>
+   <h2>Contact Us</h2>
    <table>
       <tbody>
          <tr>

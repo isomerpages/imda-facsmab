@@ -10,7 +10,7 @@ permalink: /Events
          padding: 10px 20px;
       }
    </style>
-   <h1>FACSMAB 2020 Meeting Schedule</h1>
+   <h2>FACSMAB 2020 Meeting Schedule</h2>
    <div>
       <table>
          <thead>
