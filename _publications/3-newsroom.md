@@ -1,5 +1,5 @@
 ---
-title: Newscroom
+title: Newsroom
 permalink: /Publications/newsroom
 
 ---
