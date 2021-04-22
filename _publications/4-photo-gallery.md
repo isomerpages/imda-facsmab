@@ -29,20 +29,7 @@ div.desc {
 .responsive {
   padding: 0 6px;
   float: left;
-  width: 49.99999%;
-}
-
-@media only screen and (max-width: 1400px) {
-  .responsive {
-    width: 99.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 1000px) {
-  .responsive {
-    width: 100%;
-  }
+  width: 100%;
 }
 
 .clearfix:after {
