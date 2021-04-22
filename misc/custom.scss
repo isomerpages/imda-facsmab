@@ -338,3 +338,8 @@ $desktop: 960px + (2 * $gap) !default;
 .horizontal-scroll {
   display: contents;
 }
+.content h1, .content h2, .content h3, .content h4, .content h5 {
+    color: #6b4370;
+    margin-top: 0rem !important;
+    margin-bottom: .75rem;
+}
