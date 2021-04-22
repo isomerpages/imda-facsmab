@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-permalink: /Terms-and-Conditions/
+permalink: /terms-of-use/
 ---
 <div class="section-content">
    <h2>Terms and Conditions</h2>
