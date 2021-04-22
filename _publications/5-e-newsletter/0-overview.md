@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /Publications/E-Newsletter
-third_nav_title: E Newsletter
+third_nav_title: E-Newsletter
 ---
 <div class="section-content">
    <h1>E-Newsletter</h1>
