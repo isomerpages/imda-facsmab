@@ -30,6 +30,7 @@ div.desc {
   padding: 0 6px;
   float: left;
   width: 100%;
+  margin: 10px;
 }
 
 .clearfix:after {
