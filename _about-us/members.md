@@ -4,7 +4,7 @@ permalink: /about-us/members
 ---
 <div class="section-content">
    <h1>Members of FACSMAB</h1>
-   <table style="width: 600px; height: 221px;">
+   <table>
       <tbody>
          <tr>
             <td>
