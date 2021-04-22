@@ -1,7 +1,6 @@
 ---
-title: FACSMAB | About Us
+title: About Us
 permalink: /about-us/
-breadcrumb: About Us
 ---
 <div class="section-content">
    <h2></h2>
