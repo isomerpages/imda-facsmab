@@ -1,7 +1,7 @@
 ---
 title: 15th Review Meeting
 permalink: /Publications/E-Newsletter/15th-Review-Meeting
-third_nav_title: E Newsletter
+third_nav_title: E-Newsletter
 ---
 <div class="container container--mw1280">
    <span style="color: #953734;"><strong><span style="font-size: 24px;">SINGAPORE HOSTED THE 15TH FACSMAB REVIEW MEETING</span></strong></span>
