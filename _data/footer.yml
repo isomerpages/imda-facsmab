@@ -2,3 +2,10 @@ contact_us: /contact-us/
 show_reach: true
 feedback: 
 faq: /faq/
+links:
+  - title: Sitemap
+    url: /Sitemap/
+  - title: Copyright
+    url: /Copyright/
+  - title: Disclaimer
+    url: /Disclaimer/
