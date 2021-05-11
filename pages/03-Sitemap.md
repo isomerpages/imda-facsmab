@@ -62,7 +62,7 @@ permalink: /Sitemap/
          </ul>
          <ul></ul>
          <ul>
-            <li><a href="/Terms-and-Conditions">Terms &amp; Conditions</a></li>
+            <li><a href="/terms-of-use">Terms &amp; Conditions</a></li>
          </ul>
          <ul></ul>
          <ul>
