@@ -343,3 +343,7 @@ $desktop: 960px + (2 * $gap) !default;
     margin-top: 0rem !important;
     margin-bottom: .75rem;
 }
+.bp-footer a:last-child {
+    font-size: 16px !important;
+    font-weight: 300 !important;	
+}
