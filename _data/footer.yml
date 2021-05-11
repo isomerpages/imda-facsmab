@@ -1,6 +1,15 @@
 contact_us: /contact-us/
 show_reach: false
 feedback: 
+navlinks:
+  - title: HOME
+    url: /
+  - title: ABOUT US
+    url: /about-us/
+  - title: EVENTS
+    url: /Events/
+  - title: PUBLICATIONS
+    url: /Publications/
 links:
   - title: Sitemap
     url: /Sitemap/
