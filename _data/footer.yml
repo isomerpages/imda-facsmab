@@ -10,7 +10,8 @@ navlinks:
     url: /Events/
   - title: PUBLICATIONS
     url: /Publications/
-links:
+  - title: Sitemap
+    url: /Sitemap/
   - title: Copyright
     url: /Copyright/
   - title: Disclaimer
