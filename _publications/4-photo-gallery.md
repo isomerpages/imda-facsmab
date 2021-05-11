@@ -38,52 +38,55 @@ div.desc {
   display: table;
   clear: both;
 }
+a[target="_blank"]:after {
+    display: none;
+}
 </style>
 <div class="responsive">
   <div class="gallery">
+    <img src="/assets/images/Photo1.jpg" alt="Cinque Terre" width="800" height="400">
     <a target="_blank" href="/assets/images/Photo1.jpg">
-      <img src="/assets/images/Photo1.jpg" alt="Cinque Terre" width="800" height="400">
+      <div class="desc">KL Converge! 2015, Kuala Lumpur, Malaysia</div>
     </a>
-    <div class="desc">KL Converge! 2015, Kuala Lumpur, Malaysia</div>
   </div>
 </div>
 <div class="responsive">
   <div class="gallery">
+    <img src="/assets/images/Photo2.jpg" alt="Cinque Terre" width="800" height="400">
     <a target="_blank" href="/assets/images/Photo2.jpg">
-      <img src="/assets/images/Photo2.jpg" alt="Cinque Terre" width="800" height="400">
+      <div class="desc">CommunicAsia 2015, Singapore</div>
     </a>
-    <div class="desc">CommunicAsia 2015, Singapore</div>
   </div>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Photo3.jpg">
       <img src="/assets/images/Photo3.jpg" alt="Cinque Terre" width="800" height="400">
-    </a>
+    <a target="_blank" href="/assets/images/Photo3.jpg">
     <div class="desc">16th FACSMAB Review Meeting Hosted by MCMC @ The Andaman, Langkawi, Malaysia</div>
+    </a>
   </div>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Photo4.jpg">
       <img src="/assets/images/Photo4.jpg" alt="Cinque Terre" width="800" height="400">
-    </a>
+    <a target="_blank" href="/assets/images/Photo4.jpg">
     <div class="desc">15th FACSMAB Review Meeting Hosted by IDA @ Concorde Hotel, Singapore</div>
+    </a>
   </div>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/images/Photo5.jpg">
       <img src="/assets/images/Photo5.jpg" alt="Cinque Terre" width="800" height="400">
-    </a>
+    <a target="_blank" href="/assets/images/Photo5.jpg">
     <div class="desc">14th FACSMAB Review Meeting Hosted by AITI @ Magellan Sutera Harbour & Resort, KK, Sabah, Malaysia</div>
+    </a>
   </div>
 </div>
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/images/17th-FACSMAB-Review-Group-Photophoto-gallery.jpg">
       <img src="/assets/images/17th-FACSMAB-Review-Group-Photophoto-gallery.jpg" alt="Cinque Terre" width="800" height="400">
-    </a>
+    <a target="_blank" href="/assets/images/17th-FACSMAB-Review-Group-Photophoto-gallery.jpg">
     <div class="desc">17th FACSMAB Review Meeting Hosted by AITI @ V-Plaza Hotel, Kuala Belait District, Brunei Darussalam</div>
+    </a>
   </div>
 </div>
