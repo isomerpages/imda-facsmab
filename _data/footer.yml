@@ -1,40 +1,17 @@
-<div class="container">
-<div class="site-footer__top">
-<h3 class="site-footer__title">FACSMAB</h3>
-<nav class="site-footer__nav">
-<ul>
-<li><a href="/" class="active"><span>Home</span></a></li>
-<li><a href="/About-Us"><span>About Us</span></a></li>
-<li><a href="/Events/FACSMAB"><span>Events</span></a></li>
-<li><a href="/Publications/Latest-Publication"><span>Publications</span></a></li>
-</ul>
-</nav>
-<div class="site-footer__common">
-<ul class="common-links">
-<li><a href="/Contact-Us"><span>Contact Us</span></a></li>
-<li><a href="/Contact-Us"><span>Feedback</span></a></li>
-</ul>
-<div class="social-links">
-<p class="social-links__label"></p>
-<ul class="social-links__list">
-</ul>
-</div>
-</div>
-<div class="site-footer__bottom">
-<nav class="site-footer__panel">
-<ul>
-<li><a href="https://www.tech.gov.sg/report_vulnerability"><span>Report Vulnerability</span></a></li>
-<li><a href="/Privacy"><span>Privacy</span></a></li>
-<li><a href="/Terms-and-Conditions"><span>Terms &amp; Conditions</span></a></li>
-<li><a href="/Sitemap"><span>Sitemap</span></a></li>
-<li><a href="/Copyright"><span>Copyright</span></a></li>
-<li><a href="/Disclaimer"><span>Disclaimer</span></a></li>
-</ul><small class="browser-support">Best viewed using IE 11 and Chrome 62</small>
-</nav>
-<div class="site-footer__end-note">
-<small class="copyright">© 2021, FACSMAB</small>
-<small class="last-update">Last Updated on 20 January 2020</small>
-</div>
-</div>
-</div>
-</div>
+contact_us: /contact-us/
+show_reach: false
+feedback: 
+navlinks:
+  - title: HOME
+    url: /
+  - title: ABOUT US
+    url: /about-us/
+  - title: EVENTS
+    url: /Events/
+  - title: PUBLICATIONS
+    url: /Publications/
+links:
+  - title: Copyright
+    url: /Copyright/
+  - title: Disclaimer
+    url: /Disclaimer/
