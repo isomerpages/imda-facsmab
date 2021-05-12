@@ -350,3 +350,7 @@ $desktop: 960px + (2 * $gap) !default;
 .float-buttons {
     display: none !important;
 }
+.col.is-one-quarter, .col.is-one-quarter-tablet {
+    flex: none;
+    width: 15% !important;
+}
