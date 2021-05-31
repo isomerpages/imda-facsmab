@@ -26,9 +26,11 @@ collections:
     output: true
   publications:
     output: true
+  news:
+    output: true
   shared-frequencies:
     output: true
-resources_name: media-centre
+resources_name: news
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
