@@ -30,7 +30,7 @@ sections:
         image: /assets/images/home_about_icon.gif
         alt: Home About
     - infopic:
-        title: LATEST PUBLICATIONS
+        title: Latest Publication
         subtitle: 
         description: 20TH REVIEW MEETING 3rd May 2019.
         button: Learn More
