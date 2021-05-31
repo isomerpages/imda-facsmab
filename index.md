@@ -28,7 +28,7 @@ sections:
         button: Learn More
         url: /About-Us
         image: /assets/images/home_about_icon.gif
-        alt: 
+        alt: Home About
     - resources:
         title: News
         subtitle:
