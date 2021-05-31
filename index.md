@@ -29,6 +29,14 @@ sections:
         url: /About-Us
         image: /assets/images/home_about_icon.gif
         alt: Home About
+    - infopic:
+        title: LATEST PUBLICATIONS
+        subtitle: 
+        description: 20TH REVIEW MEETING 3rd May 2019.
+        button: Learn More
+        url: /Publications/Past-Publication/20TH-Facsmab-Review-Meeting-3rd-May-2019
+        image: /assets/images/bg_publication.jpg
+        alt: Publication
     - resources:
         title: News
         subtitle:
