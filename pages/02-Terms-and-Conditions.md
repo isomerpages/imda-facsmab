@@ -9,9 +9,13 @@ The use of this website constitutes agreement with the following terms and condi
    3. In case of any violation of these Terms, each individual member of FACSMAB reserves the right to seek all remedies available by law and in equity for such violations. These Terms and Conditions of Use apply to all visits to this website, both now and in the future.
    4. These Terms govern the access to and use of this website and the materials and information contained herein.
    5. FACSMAB reserves the right to:
+      
       (a) Alter, limit or discontinue the website or any materials or information contained herein and shall have no obligation towards the needs or requirements of any user(s).
+      
       (b) Restrict or deny access to this website to any user(s) or block access from a particular internet address, whether to the website as a whole or a portion thereof.
+      
       (c) Revise, alter, update, modify or otherwise change the appearance and contents of this website at any time without prior notice.
+      
    6. Privacy
       a) If you are only browsing this website, we do not capture data that allows us to identify you individually.
       (b) If you choose to make an application or send us an email for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
