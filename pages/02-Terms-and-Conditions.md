@@ -33,14 +33,14 @@ The use of this website constitutes agreement with the following terms and condi
       (c) Licence to use website<br>
          (i) You may view, download for caching purposes only, and print pages from the website for your own personal use, subject to the restrictions below.<br>
          (ii) You must not:<br>
-         *Copy, republish or distribute material from this website (including republication on another website) without the appropriate attribution to FACSMAB as the source;<br>
-         *Sell, rent or otherwise sub-license material from the website.<br>
-         *Reproduce, duplicate, copy or otherwise exploit material on our website for a commercial purpose.<br>
-         *Edit or otherwise modify any material on the website.<br>
-         *Redistribute material from this website except for content specifically and expressly made available for redistribution e.g. newsletters.<br>
-         *Use any robot, spider, other automatic device, or manual process to monitor or copy any pages within this website or the Contents without FACSMAB’s prior written permission.<br>
-         *Use any device, software or routine to interfere or attempt to interfere with the proper working of this website.<br>
-         *Take any action that imposes an unreasonable or disproportionately large load on the servers hosting this website.<br>
+         +Copy, republish or distribute material from this website (including republication on another website) without the appropriate attribution to FACSMAB as the source;<br>
+         +Sell, rent or otherwise sub-license material from the website.<br>
+         +Reproduce, duplicate, copy or otherwise exploit material on our website for a commercial purpose.<br>
+         +Edit or otherwise modify any material on the website.<br>
+         +Redistribute material from this website except for content specifically and expressly made available for redistribution e.g. newsletters.<br>
+         +Use any robot, spider, other automatic device, or manual process to monitor or copy any pages within this website or the Contents without FACSMAB’s prior written permission.<br>
+         +Use any device, software or routine to interfere or attempt to interfere with the proper working of this website.<br>
+         +Take any action that imposes an unreasonable or disproportionately large load on the servers hosting this website.<br>
    9. Content<br>
       (a) Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of FACSMAB.<br>
       (b) You may use, hyperlink, copy and distribute the contents found on this website solely for personal, internal, non-commercial, informational purposes only. You may download one copy of any information provided in this website onto a single computer for your own personal non-commercial use provided that you keep intact all accompanying copyright and other proprietary notices. You may not display, distribute or otherwise use any of the content found on this website for any commercial purpose unless you receive specific written consent from FACSMAB.<br>
