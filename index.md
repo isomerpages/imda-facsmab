@@ -22,21 +22,13 @@ sections:
               url: https://www.mcmc.gov.my/
 
     - infopic:
-        title: About FACSMAB
+        title: ABOUT FACSMAB
         subtitle: 
         description: FACSMAB is Frequency Assignment Committee, Singapore, Malaysia And Brunei Darussalam. The objective of the committee is to manage coordination of radio spectrum at the border areas of Brunei Darussalam, Malaysia and Singapore since 1948.
         button: Learn More
         url: /About-Us
         image: /assets/images/home_about_icon.gif
-        alt: Home About
-    - infopic:
-        title: Latest Publication
-        subtitle: 
-        description: 20TH review meeting 3rd May 2019.
-        button: Learn More
-        url: /Publications/Past-Publication/20TH-Facsmab-Review-Meeting-3rd-May-2019
-        image: /assets/images/bg_publication.jpg
-        alt: Publication
+        alt: 
     - resources:
         title: News
         subtitle:
