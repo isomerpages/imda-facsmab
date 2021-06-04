@@ -5,13 +5,21 @@ permalink: /about-us/top-management
 ## **Top Management**
 ![](/assets/images/zain.png)
 Pengiran Hj Md Zain
+
 Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
+
 Pengiran Haji Md Zain first served as Chief Executive of the Authority for Info-communications Technology Industry of Brunei Darussalam (AITI) from 2007 to 2010 and was reappointed on 11 May 2015.
+
 Between 2010 and 2015, he was director of a number of divisions and departments under the Ministry of Communications and was responsible for communications and transportation policies in maritime, civil aviation, public land transportation, logistics as well as postal and ICT industries. He also served during this time as chairman of both BIMP-EAGA ICT Working Group and BIMP-EAGA Transport Cluster.
+
 He began his career in 1989 with Jabatan Telekom Brunei (JTB), spending a total of eleven years in various capacities including submarine cable projects, corporate planning, sales operation and counters, billing process, international affairs and regulatory issues.
+
 Academically, Pengiran Haji Md Zain graduated with a B.A. (Hons) in Electrical Information Sciences Trips and an M.A. from Cambridge University. He was also awarded the Chevening Scholarship to Cranfield School of Management where he obtained his M.B.A.
+
 Apart from this, he has recently attended the Leadership in Development programme at Harvard Kennedy School. His professional qualifications include his position as Honorary Chairman of the Institution of Engineering and Technology (IET) Brunei Network in 2008/2009. The IET is headquartered in London and is the second largest professional body in the world. He is a ‘Chartered Engineer’ and is also a Fellow of IET UK.
+
 ***
+
 ![](/assets/images/lkt.png)
 Leong Keng Thai
 
@@ -28,6 +36,7 @@ In addition, Mr Leong is also appointed as a Commissioner to the UN Broadband Co
 Mr Leong graduated with a Bachelor of Engineering (Honours) from the University of Singapore and obtained a Master of Business Administration from the University of Southern California, USA. He also attended the Advanced Management Programme at Harvard Business School.
 
 ***
+
 ![](/assets/images/Aileen-Chia-5.jpg)
 Aileen Chia
 
@@ -41,7 +50,9 @@ Ms Chia Aileen is currently the Assistant Chief Executive and Director-General (
 She is also a member on the Competition Commission of Singapore.
 
 She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.
+
 ***
+
 ![](/assets/images/Mr-Al-Ishsal2.jpg)
 Mr. Al-Ishsal Ishak
 
