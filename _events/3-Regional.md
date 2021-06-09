@@ -4,6 +4,7 @@ permalink: /Events/Regional
 
 ---
 ## **FACSMAB 2020 Meeting Schedule**
+
 | Date| Meeting | Chair Venue |
 | ------------ | ------------- | ------------- |
 | 07-12 Jan 2019 | 4th APT Conference Preparatory Group for WRC-19 | Busan,South Korea |
