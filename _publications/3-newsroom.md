@@ -27,6 +27,8 @@ AITI has granted the Spectrum Rights for the band 1765-1785 MHz/ 1860-1880 MHz t
 *18 January 2013*<br>
 AITI conducts CommunicAsia 2013 Briefing.
 
+***
+
 ### Singapore
 **Sharing Session on Outcome of World Radiocommunication Conference 2015 and Formation of the National Preparatory Working Group for World Radiocommunication Conference 2019 (“NPWG-19”)**<br>
 *12 May 2016*<br>
@@ -52,6 +54,8 @@ These guidelines set out the testing procedures, examples of computations, repor
 *01 February 2016*<br>
 MCMC Chairman, Dato’ Sri Halim Shafie announced that frequency bands of 900 MHz and 1800 MHz will be assigned for a fee to Celcom, Digi, Maxis and U Mobile for a period of 15 years. MCMC intends to issue the spectrum assignment to all four players by August 2016 for full implementation by 1 July 2017. The reallocation and conversion to spectrum assignment provide more certainty on the length of time these four players will have the right to use this spectrum. Dato’ Sri Halim Shafie also stated that MCMC will also address the optimal usage of other relevant spectrum bands such as the 700MHz, 2300MHz, 2600MHz bands, etc. by the end of 2016.<br>
 [Read More](http://skmm.gov.my/Media/Press-Releases/MCMC-Announces-Spectrum-Reallocation.aspx)
+
+***
 
 ### Malaysia
 **700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
