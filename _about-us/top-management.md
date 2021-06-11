@@ -3,7 +3,7 @@ title: Top Management
 permalink: /about-us/top-management
 ---
 ## **Top Management**
-![](/assets/images/zain.png){:height="60px" width="80px"}
+![](/assets/images/zain.png =60x80)
 Pengiran Hj Md Zain
 
 Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
