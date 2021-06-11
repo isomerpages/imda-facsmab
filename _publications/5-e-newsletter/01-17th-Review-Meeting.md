@@ -3,7 +3,7 @@ title: 17th Review Meeting
 permalink: /Publications/E-Newsletter/17th-Review-Meeting
 third_nav_title: E-Newsletter
 ---
-##**BRUNEI DARUSSALAM HOSTED THE 17TH FACSMAB REVIEW MEETING**
+## **BRUNEI DARUSSALAM HOSTED THE 17TH FACSMAB REVIEW MEETING**
 
 The 17th FACSMAB Review Meeting was hosted by Brunei Darussalam on 18th February 2016 at the V-Plaza Hotel, Kuala Belait District, Brunei Darussalam. The meeting was chaired by Pg Haji Mohd Zain Bin Pg Haji Abdul Razak, Chief Executive of AITI and was attended by Ms Norizan Baharin, Chief Officer, Communications, Spectrum Management and Economic Regulation of MCMC and Mr Leong Keng Thai, Deputy Chief Executive of IDA.
 
