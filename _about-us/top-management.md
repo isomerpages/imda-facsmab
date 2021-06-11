@@ -37,7 +37,7 @@ Mr Leong graduated with a Bachelor of Engineering (Honours) from the University 
 
 ***
 
-![](/assets/images/Aileen-Chia-5.jpg =60x80)
+![](/assets/images/Aileen-Chia-5.jpg)
 Aileen Chia
 
 Director-General (Telecoms & Post)
