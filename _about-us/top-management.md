@@ -3,7 +3,7 @@ title: Top Management
 permalink: /about-us/top-management
 ---
 ## **Top Management**
-![](/assets/images/zain.png)
+![](/assets/images/zain.png =60x80)
 Pengiran Hj Md Zain
 
 Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
@@ -20,7 +20,7 @@ Apart from this, he has recently attended the Leadership in Development programm
 
 ***
 
-![](/assets/images/lkt.png)
+![](/assets/images/lkt.png =60x80)
 Leong Keng Thai
 
 Deputy Chief Executive (International & Corporate)
@@ -37,7 +37,7 @@ Mr Leong graduated with a Bachelor of Engineering (Honours) from the University 
 
 ***
 
-![](/assets/images/Aileen-Chia-5.jpg)
+![](/assets/images/Aileen-Chia-5.jpg =60x80)
 Aileen Chia
 
 Director-General (Telecoms & Post)
@@ -53,7 +53,7 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 
 ***
 
-![](/assets/images/Mr-Al-Ishsal2.jpg)
+![](/assets/images/Mr-Al-Ishsal2.jpg =60x80)
 Mr. Al-Ishsal Ishak
 
 Chairman, Malaysian Communications and Multimedia Commission (MCMC)
