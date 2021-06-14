@@ -1,35 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: FACSMAB
+description: 
+image: /assets/images/favicon.ico
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: 
+        subtitle: 
+        background: /assets/images/main_banner5_r2.jpg
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: AITI
+              description: 
+              url: https://www.aiti.gov.bn/
+            - title: IMDA - Infocomm Media Development Authority
+              description: 
+              url: https://www.imda.gov.sg/
+            - title: Malaysian Communications And Multimedia Commission (MCMC) | Suruhanjaya Komunikasi dan Multimedia Malaysia (SKMM) - Home
+              description: 
+              url: https://www.mcmc.gov.my/
+
+    - infopic:
+        title: ABOUT FACSMAB
+        subtitle: 
+        description: FACSMAB is Frequency Assignment Committee, Singapore, Malaysia And Brunei Darussalam. The objective of the committee is to manage coordination of radio spectrum at the border areas of Brunei Darussalam, Malaysia and Singapore since 1948.
+        button: Learn More
+        url: /About-Us
+        image: /assets/images/home_about_icon.gif
+        alt: About-Us
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News
+        subtitle:
         button: View More
 ---

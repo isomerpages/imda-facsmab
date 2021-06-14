@@ -4,16 +4,43 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: assets/images/logo.jpg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Who We Are
-    url: /who-we-are/
-  - title: Shared Frequencies
-    collection: shared-frequencies
-  - title: Media Centre
-    resource_room: true
+  - title: HOME
+    url: /
+  - title: ABOUT US
+    url: /about-us/
+    sublinks:
+      - title: History
+        url: /about-us/history
+      - title: Members
+        url: /about-us/members
+      - title: Roles
+        url: /about-us/roles
+      - title: Top Management
+        url: /about-us/top-management
+  - title: EVENTS
+    url: /Events/
+    sublinks:      
+      - title: FACSMAB
+        url: /Events/
+      - title: Upcoming Events
+        url: /Events/Upcoming-Events
+      - title: Regional
+        url: /Events/Regional
+      - title: International
+        url: /Events/International
+  - title: PUBLICATIONS
+    url: /Publications/
+    sublinks:
+      - title: Latest Publication
+        url: /Publications
+      - title: Past Publication
+        url: /Publications/Past-Publication
+      - title: Newsroom
+        url: /Publications/Newsroom
+      - title: Photo-Gallery
+        url: /Publications/Photo-Gallery
+      - title: E-Newsletter
+        url: /Publications/E-Newsletter
