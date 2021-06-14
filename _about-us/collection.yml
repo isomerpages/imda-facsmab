@@ -1,6 +1,6 @@
 collections:
   about-us:
-    output: false
+    output: true
     order:
       - about-us.md
       - history.md

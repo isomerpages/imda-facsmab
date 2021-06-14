@@ -1,6 +1,6 @@
 collections:
   shared-frequencies:
-    output: false
+    output: true
     order:
       - singapore.md
       - malaysia.md
