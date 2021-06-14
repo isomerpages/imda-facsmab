@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: false
+    order:
+      - about-us.md
+      - history.md
+      - members.md
+      - roles.md
+      - top-management.md

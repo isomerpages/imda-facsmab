@@ -1,0 +1,7 @@
+collections:
+  shared-frequencies:
+    output: false
+    order:
+      - singapore.md
+      - malaysia.md
+      - brunei.md
