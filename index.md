@@ -15,7 +15,7 @@ sections:
         - title: IMDA - Infocomm Media Development Authority
           description: null
           url: https://www.imda.gov.sg/
-        - title: Malsaysian Communications And Multimedia Commission (MCMC) | Suruhanjaya
+        - title: Malssaysian Communications And Multimedia Commission (MCMC) | Suruhanjaya
             Komunikasi dan Multimedia Malaysia (SKMM) - Home
           description: null
           url: https://www.mcmc.gov.my/
