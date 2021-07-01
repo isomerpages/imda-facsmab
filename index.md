@@ -30,4 +30,9 @@ sections:
       alt: About-Us
   - resources:
       button: View More
+  - infobar:
+      title: Latest Publications
+      subtitle: Infobar Subtitle
+      description: 20TH REVIEW MEETING 3rd May 2019
+      button: Button Text
 ---
