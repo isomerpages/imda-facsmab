@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /assets/images/main_banner5_r2.jpg
       key_highlights:
-        - title: AITI
+        - title: AITI - Authority for Info-Communications Technology Industry
           description: null
           url: https://www.aiti.gov.bn/
         - title: IMDA - Infocomm Media Development Authority
           description: null
           url: https://www.imda.gov.sg/
-        - title: "Malaysian Communications And Multimedia Commission (MCMC) "
+        - title: MCMC - Malaysian Communications And Multimedia Commission
           description: null
           url: https://www.mcmc.gov.my/
   - infopic:
