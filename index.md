@@ -29,7 +29,7 @@ sections:
       image: /assets/images/home_about_icon.gif
       alt: About-Us
   - resources:
-      button: View More
+      button: Newsroom
   - infobar:
       title: LATEST PUBLICATIONS
       description: 20TH REVIEW MEETING 3rd May 2019
