@@ -15,7 +15,6 @@ The key functions of FACSMAB are as follows:
    3. To establish appropriate working arrangements, including setting up sub-committee and inviting industry participation; and
    4. To escalate if necessary any unresolved matters to the Heads of the Regulatory Authorities for resolution.
    [Read More](/About-Us/Roles)
-   ***
    
 #### MEMBERS
    – [Members of FACSMAB](/About-Us/Members) – [Structure of FACSMAB](/About-Us/Members) – [Top Management](/About-Us/Top-Management)
