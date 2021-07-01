@@ -10,8 +10,6 @@ FACSMAB was established since 1948 to deal with the day-to-day civil &amp; servi
   
 ---
 
-<br>
- 
 #### ROLES
 The key functions of FACSMAB are as follows:
    1. To coordinate radio frequency assignments within the region bounded by the three countries;
