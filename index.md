@@ -28,5 +28,6 @@ sections:
       url: /About-Us
       image: /assets/images/home_about_icon.gif
       alt: About-Us
-  - resources: {}
+  - resources:
+      button: View More
 ---
