@@ -1,7 +1,6 @@
 ---
 title: Newsroom
 permalink: /Publications/newsroom
-
 ---
 ## **Newsroom**
 ### Brunei Darussalam
@@ -30,34 +29,6 @@ AITI conducts CommunicAsia 2013 Briefing.
 ***
 
 ### Singapore
-**Sharing Session on Outcome of World Radiocommunication Conference 2015 and Formation of the National Preparatory Working Group for World Radiocommunication Conference 2019 (“NPWG-19”)**<br>
-*12 May 2016*<br>
-The above session was held to share on the outcome of WRC-15 and to inform on the formation of the NPWG-19. This group will carry out preparatory work on WRC-19 agenda items.<br>
-[Read More](http://www.skmm.gov.my/Media/Events/MCMC/Sharing-Session-on-Outcome-of-World-Radiocommunica.aspx)
-
-**11th ITU Symposium on ICT Environment and Climate Change**<br>
-*28 March 2016*<br>
-ITU had organized the 11th ITU Symposium on ICTs, the Environment and Climate Change, which was hosted by the Ministry of Communications and Multimedia Malaysia and the Malaysian Communications and Multimedia Commission on 21 April 2016, in Kuala Lumpur, Malaysia in conjunction with ITU-T Study Group 5 "Environment and Climate Change" meeting which convened from 20 to 27 April 2016. The objective of this Symposium was to raise awareness of the potential ICTs possess to address environmental challenges and to encourage stakeholders to integrate existing and emerging ICT-based solutions into their activities for an overall ‘smarter’ and more holistically ‘sustainable’ future for mankind.<br>
-[Read More](http://www.skmm.gov.my/Media/Events/MCMC/11th-ITU-Symposium-on-ICT,-Environment-and-Climate.aspx)
-
-**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 2 of 2016**<br>
-*24 February 2016*<br>
-These guidelines set out the testing procedures, examples of computations, reporting templates, and explanatory notes to the standards in the MSQoS.<br>
-[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wired-Broadband-Access-Service.pdf)
-
-**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 1 of 2016**<br>
-*24 February 2016*<br>
-These guidelines set out the testing procedures, examples of computations, reporting templates, explanatory notes and list of designated areas to the standards in the Mandatory Standards.<br>
-[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wireless-Broadband-Access-Service.pdf)
-
-**Spectrum Reallocation**<br>
-*01 February 2016*<br>
-MCMC Chairman, Dato’ Sri Halim Shafie announced that frequency bands of 900 MHz and 1800 MHz will be assigned for a fee to Celcom, Digi, Maxis and U Mobile for a period of 15 years. MCMC intends to issue the spectrum assignment to all four players by August 2016 for full implementation by 1 July 2017. The reallocation and conversion to spectrum assignment provide more certainty on the length of time these four players will have the right to use this spectrum. Dato’ Sri Halim Shafie also stated that MCMC will also address the optimal usage of other relevant spectrum bands such as the 700MHz, 2300MHz, 2600MHz bands, etc. by the end of 2016.<br>
-[Read More](http://skmm.gov.my/Media/Press-Releases/MCMC-Announces-Spectrum-Reallocation.aspx)
-
-***
-
-### Malaysia
 **700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
 *29 April 2016*<br>
 IDA has published the Information Memorandum and Auction Rules for the 700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction, for the provision of 4G and/or IMT-Advanced telecommunication systems and services, for clarification by interested bidders.<br>
@@ -82,3 +53,32 @@ IDA has issued its decision on the Framework for the Allocation of Spectrum for 
 *07 July 2015*<br>
 Second Public Consultation involving the technical considerations for the allocation of spectrum (e.g., the 700 MHz, 800 MHz and 1.4 GHz bands, etc) and the proposed facilitation framework for new entrants.<br>
 [Read More](https://www.imda.gov.sg/regulations-licensing-and-consultations/consultations/consultation-papers/2014/proposed-allocation-of-spectrum-for-international-mobile-telecommunications-imt-and-imt-advanced-services-and-options-to-enhance-mobile-competition)
+
+***
+
+
+### Malaysia
+**Sharing Session on Outcome of World Radiocommunication Conference 2015 and Formation of the National Preparatory Working Group for World Radiocommunication Conference 2019 (“NPWG-19”)**<br>
+*12 May 2016*<br>
+The above session was held to share on the outcome of WRC-15 and to inform on the formation of the NPWG-19. This group will carry out preparatory work on WRC-19 agenda items.<br>
+[Read More](http://www.skmm.gov.my/Media/Events/MCMC/Sharing-Session-on-Outcome-of-World-Radiocommunica.aspx)
+
+**11th ITU Symposium on ICT Environment and Climate Change**<br>
+*28 March 2016*<br>
+ITU had organized the 11th ITU Symposium on ICTs, the Environment and Climate Change, which was hosted by the Ministry of Communications and Multimedia Malaysia and the Malaysian Communications and Multimedia Commission on 21 April 2016, in Kuala Lumpur, Malaysia in conjunction with ITU-T Study Group 5 "Environment and Climate Change" meeting which convened from 20 to 27 April 2016. The objective of this Symposium was to raise awareness of the potential ICTs possess to address environmental challenges and to encourage stakeholders to integrate existing and emerging ICT-based solutions into their activities for an overall ‘smarter’ and more holistically ‘sustainable’ future for mankind.<br>
+[Read More](http://www.skmm.gov.my/Media/Events/MCMC/11th-ITU-Symposium-on-ICT,-Environment-and-Climate.aspx)
+
+**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 2 of 2016**<br>
+*24 February 2016*<br>
+These guidelines set out the testing procedures, examples of computations, reporting templates, and explanatory notes to the standards in the MSQoS.<br>
+[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wired-Broadband-Access-Service.pdf)
+
+**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 1 of 2016**<br>
+*24 February 2016*<br>
+These guidelines set out the testing procedures, examples of computations, reporting templates, explanatory notes and list of designated areas to the standards in the Mandatory Standards.<br>
+[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wireless-Broadband-Access-Service.pdf)
+
+**Spectrum Reallocation**<br>
+*01 February 2016*<br>
+MCMC Chairman, Dato’ Sri Halim Shafie announced that frequency bands of 900 MHz and 1800 MHz will be assigned for a fee to Celcom, Digi, Maxis and U Mobile for a period of 15 years. MCMC intends to issue the spectrum assignment to all four players by August 2016 for full implementation by 1 July 2017. The reallocation and conversion to spectrum assignment provide more certainty on the length of time these four players will have the right to use this spectrum. Dato’ Sri Halim Shafie also stated that MCMC will also address the optimal usage of other relevant spectrum bands such as the 700MHz, 2300MHz, 2600MHz bands, etc. by the end of 2016.<br>
+[Read More](http://skmm.gov.my/Media/Press-Releases/MCMC-Announces-Spectrum-Reallocation.aspx)
