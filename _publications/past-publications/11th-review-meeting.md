@@ -52,7 +52,7 @@ This has been seen from the increasing trend in number of frequency registration
 
 There have been growing demands by the government and private sectors alike for spectrum in the 150 – 74 MHz and 440 – 450 MHz bands for their private network and telemetry applications.
 
-his has been seen from the increasing trend in number of frequency registrations in these bands at FACSMAB meetings. Since there have been no sub-band plans for these two bands so far, it is timely for FACSMAB members to harmonize the band plans in order to expedite the frequency coordination process and facilitate fast roll out the user’s telecommunication network.
+This has been seen from the increasing trend in number of frequency registrations in these bands at FACSMAB meetings. Since there have been no sub-band plans for these two bands so far, it is timely for FACSMAB members to harmonize the band plans in order to expedite the frequency coordination process and facilitate fast roll out the user’s telecommunication network.
 
 ***
 
