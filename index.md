@@ -32,7 +32,7 @@ sections:
       button: View More
   - infobar:
       title: Latest Publications
-      subtitle: Infobar Subtitle
       description: 20TH REVIEW MEETING 3rd May 2019
-      button: Button Text
+      button: Learn More
+      url: https://imda-facsmab-staging.netlify.app/publications/past-publication/20th-facsmab-review-meeting-3rd-may-2019
 ---
