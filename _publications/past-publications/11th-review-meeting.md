@@ -24,7 +24,7 @@ Several frequency bands are allocated for land mobile services to support the gr
     – 403 – 450 MHz(UHF band)
     – 851 – 866 MHz(800 MHz band)
 
-FACMAB members had successfully agreed on several frequency band plans for land mobile services which include 162 – 174 MHz band, 410 – 430 MHz band and 800 MHz band. However, There are no band plans for VHF low band and VHF mid band.
+FACSMAB members had successfully agreed on several frequency band plans for land mobile services which include 162 – 174 MHz band, 410 – 430 MHz band and 800 MHz band. However, There are no band plans for VHF low band and VHF mid band.
 
 The radio propagation characteristic of VHF low and mid bands provides good coverage which requires few base stations in a network and therefore an economical solution. These bands are mainly used in military’s wireless tactical communications.
 
