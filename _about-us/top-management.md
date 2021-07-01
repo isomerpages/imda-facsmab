@@ -56,7 +56,9 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 ![](/assets/images/Mr-Al-Ishsal2.jpg)
 Mr. Al-Ishsal Ishak
 
-Chairman, Malaysian Communications and Multimedia Commission (MCMC)
+Chairman, Malaysian Communications and 
+Multimedia Commission (MCMC)
+
 He holds a Bachelor of Management (Honours) degree from Universiti Sains Malaysia and was a Japan Airlines Scholar at Sophia University, Tokyo. 
 
 Soon after graduation, he embarked into entrepreneurial endeavours in the digital space from 1994 to 2008. As one of the first Internet start-ups in Malaysia, Mr. Al-Ishsal was involved with the Multimedia Super Corridor (MSC) launch in August 1996. Today, every Malaysian carries a piece of the pioneering MSC initiative with them in the form of the MyKad, and the MSC logo at its centre.
