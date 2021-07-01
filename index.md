@@ -36,12 +36,4 @@ sections:
       description: 20TH REVIEW MEETING 3rd May 2019
       button: Learn More
       url: /Publications
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Read more
-      url: /newsroom
-      image: /images/E4B1F8BB-1058-40E9-BB5F-D12B95A1C521.png
-      alt: Image alt text
 ---
