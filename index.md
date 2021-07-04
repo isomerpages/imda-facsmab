@@ -30,7 +30,7 @@ sections:
       alt: About-Us
   - resources:
       button: View More
-      title: Newsroom
+      title: News
   - infobar:
       title: LATEST PUBLICATIONS
       description: 20TH REVIEW MEETING 3rd May 2019
