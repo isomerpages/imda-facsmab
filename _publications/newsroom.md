@@ -52,7 +52,7 @@ IDA has issued its decision on the Framework for the Allocation of Spectrum for 
 **Proposed Framework for the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) And IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
 *07 July 2015*<br>
 Second Public Consultation involving the technical considerations for the allocation of spectrum (e.g., the 700 MHz, 800 MHz and 1.4 GHz bands, etc) and the proposed facilitation framework for new entrants.<br>
-[Read More](https://www.imda.gov.sg/regulations-licensing-and-consultations/consultations/consultation-papers/2014/proposed-allocation-of-spectrum-for-international-mobile-telecommunications-imt-and-imt-advanced-services-and-options-to-enhance-mobile-competition)
+[Read More](https://www.imda.gov.sg/regulations-and-licensing/Regulations/consultations/Consultation-Papers/2016/proposed-allocation-of-spectrum-for-international-mobile-telecommunications-imt-and-imt-advanced-services-and-options-to-enhance-mobile-competition)
 
 ***
 
