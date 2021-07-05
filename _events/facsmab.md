@@ -6,7 +6,6 @@ permalink: /Events
 
 | Date| Meeting| Hosted By | Remarks |
 | ------------ | ------------- | ------------- | ------------- |
-
 |4th Feb 2021 | 919th FACSMAB | Brunei Darussalam| Teleconference Meeting |
 |8th Apr 2021 | 920th FACSMAB | Malaysia | Teleconference Meeting |
 |17th Jun 2021 | 921st FACSMAB | Singapore | Teleconference Meeting |
