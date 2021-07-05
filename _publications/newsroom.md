@@ -37,7 +37,7 @@ IDA has published the Information Memorandum and Auction Rules for the 700 MHz S
 **Framework for Assignment of Frequencies on Non-Interference and Non-Protection Basis**<br>
 *17 March 2016*<br>
 IDA will make available frequencies from the 1800 MHz centre gap (i.e., 1790 – 1800 MHz) for commercial use to provide telecommunication services, in accordance with the Constrained Band Framework. Any assignment under the Constrained Band Framework will be on a first-come-first-served basis, subject to the submission of a duly completed proposal by the interested party to IDA.<br>
-[Read More](https://www.imda.gov.sg/-/media/imda/files/regulation-licensing-and-consultations/frameworks-and-policies/spectrum-management-and-coordination/constrainedbandframework_170316.pdf?la=en)
+[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Frameworks-and-Policies/Spectrum-Management-and-Coordination/ConstrainedBandFramework_170316.pdf)
 
 **IDA’s Explanatory Memo on the Amendments to the Telecommunications (Radio-Communication) Regulations**<br>
 *07 March 2016*<br>
