@@ -42,7 +42,7 @@ IDA will make available frequencies from the 1800 MHz centre gap (i.e., 1790 –
 **IDA’s Explanatory Memo on the Amendments to the Telecommunications (Radio-Communication) Regulations**<br>
 *07 March 2016*<br>
 IDA has issued its decision on the Amendments to the Telecommunications (Radio-Communication) Regulations.<br>
-[Read More](https://www.ida.gov.sg/~/media/Files/PCDG/Consultations/20141217_TelcomRegulations/RR%20Review%20Explanatory%20Memo_for%20publication.pdf)
+[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Inner/PCDG/Consultations/20141217_TelcomRegulations/RR-Review-Explanatory-Memo_for-publication.pdf?la=en&hash=C32018789AE355CEBE2079ED3B8C5CC8)
 
 **IDA’s Decision and Explanatory Memo on the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) and IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
 *18 February 2016*<br>
