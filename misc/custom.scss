@@ -8,11 +8,13 @@
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
-
+// Resources page colors
+$media-color-one: #ecb300;
+$media-color-two: #2e91b2;
+$media-color-three: #e54b3f;
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
-
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
@@ -359,3 +361,4 @@ img {
     height: auto !important;
     margin: unset !important;
 }
+	  
