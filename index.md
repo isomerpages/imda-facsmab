@@ -30,7 +30,7 @@ sections:
         image: /assets/images/home_about_icon.gif
         alt: About-Us
     - resources:
-        title: News
+        title: Newsroom
         subtitle:
         button: View More
 ---
