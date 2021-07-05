@@ -47,7 +47,7 @@ IDA has issued its decision on the Amendments to the Telecommunications (Radio-C
 **IDA’s Decision and Explanatory Memo on the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) and IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
 *18 February 2016*<br>
 IDA has issued its decision on the Framework for the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) And IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market.<br>
-[Read More](https://www.ida.gov.sg/~/media/Files/PCDG/Consultations/20150707_SecondPublicConsultation/Decision.pdf)
+[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Inner/PCDG/Consultations/20150707_SecondPublicConsultation/Decision.pdf?la=en&hash=0728E33795CB6CB5B411B8DEA2B23716)
 
 **Proposed Framework for the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) And IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
 *07 July 2015*<br>
