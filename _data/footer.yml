@@ -1,10 +1,20 @@
 contact_us: /contact-us/
-show_reach: true
+show_reach: false
 feedback: 
-faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+navlinks:
+  - title: Home
+    url: /
+  - title: About us
+    url: /about-us/
+  - title: Events
+    url: /Events/
+  - title: Publications
+    url: /Publications/
+  - title: Sitemap
+    url: /Sitemap/
+links:
+  - title: Copyright
+    url: /Copyright/
+  - title: Disclaimer
+    url: /Disclaimer/
+social_media: {}

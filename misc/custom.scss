@@ -8,11 +8,13 @@
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
-
+// Resources page colors
+$media-color-one: #ecb300;
+$media-color-two: #2e91b2;
+$media-color-three: #e54b3f;
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
-
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
@@ -335,3 +337,28 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+.horizontal-scroll {
+  display: contents;
+}
+.content h1, .content h2, .content h3, .content h4, .content h5 {
+    color: #6b4370;
+    margin-top: 0rem !important;
+    margin-bottom: .75rem;
+}
+.bp-footer a:last-child {
+    font-size: 16px !important;
+    font-weight: 300 !important;	
+}
+.float-buttons {
+    display: none !important;
+}
+.col.is-one-quarter, .col.is-one-quarter-tablet {
+    flex: none;
+    width: 15% !important;
+}
+img {
+    width: auto !important;
+    height: auto !important;
+    margin: unset !important;
+}
+	  
