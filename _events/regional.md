@@ -1,9 +1,8 @@
 ---
 title: Regional
 permalink: /Events/Regional
-
 ---
-## **FACSMAB 2020 Meeting Schedule**
+## **Regional**
 
 | Date| Meeting | Chair Venue |
 | ------------ | ------------- | ------------- |
