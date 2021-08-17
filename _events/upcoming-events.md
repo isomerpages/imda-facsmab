@@ -1,7 +1,6 @@
 ---
 title: Upcoming Events
 permalink: /Events/Upcoming-Events
-
 ---
-## **20th FACSMAB Review – TBC**
-The 21st FACSMAB Review Meeting will be held in 2020. The venue and date will be announced soon.
+## **22nd FACSMAB Review**
+The 22nd FACSMAB Review Meeting will be held via teleconference on 14th October 2021 and will be hosted by MCMC.

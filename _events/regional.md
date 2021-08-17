@@ -1,12 +1,12 @@
 ---
 title: Regional
 permalink: /Events/Regional
-
 ---
-## **FACSMAB 2020 Meeting Schedule**
+## **Regional**
 
-| Date| Meeting | Chair Venue |
+| Date| Meeting | Venue |
 | ------------ | ------------- | ------------- |
-| 07-12 Jan 2019 | 4th APT Conference Preparatory Group for WRC-19 | Busan,South Korea |
-| 25-26 Jun 2019 | The Asia-Pacific ICT Ministerial Meeting 2019 | Singapore |
-| 31 Jul - 06 Aug 2019 | 5th APT Conference Preparatory Group for WRC-19 | Tokyo, Japan |
+| 22 - 30 Mar 2021 | The 27th Meeting of the APT Wireless Group | Virtual/Online Meeting |
+| 19 - 23 Apr 2021 | The 2nd Meeting of the APG for WRC-23 | Virtual/Online Meeting |
+| 06 - 14 Sep 2021 | The 28th Meeting of the APT Wireless Group | Virtual/Online Meeting |
+| 08 - 13 Nov 2021 | The 3rd Meeting of the APT Conference Preparatory Group for WRC-23 | Virtual/Online Meeting |
