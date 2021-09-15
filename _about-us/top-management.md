@@ -3,8 +3,8 @@ title: Top Management
 permalink: /about-us/top-management
 ---
 ## **Top Management**
-![](/assets/images/zain.png)
-Pengiran Hj Md Zain
+![](images/Buntar.png)
+Ir. Haji Jailani Haji Buntar
 
 Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 
