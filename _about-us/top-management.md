@@ -19,24 +19,6 @@ Ir. Haji Jailani also represents Brunei Darussalam in various international meet
 Ir. Haji Jailani holds Master of Communications Management from Coventry University under the Chevening Scholarship from United Kingdom in collaboration with Cable & Wireless in 2004 and obtained his Bachelor of Engineering in Electrical and Electronics from University of Glasgow, Scotland in 1999. He also attended Leadership Training Course in National University of Singapore in 2013.
 
 
-
-***
-
-![](/assets/images/lkt.png)
-Leong Keng Thai
-
-Deputy Chief Executive (International & Corporate)
-Infocomm Media Development Authority
-
-Senior Advisor, International Strategy Unit
-Ministry of Communications & Information
-
-Mr Leong Keng Thai is the Deputy Chief Executive (International & Corporate) of the Infocomm Media Development Authority.
-
-In addition, Mr Leong is also appointed as a Commissioner to the UN Broadband Commission for Sustainable Development. In May 2016, he was appointed Senior Advisor, International Strategy Unit at the Ministry of Communications & Information.
-
-Mr Leong graduated with a Bachelor of Engineering (Honours) from the University of Singapore and obtained a Master of Business Administration from the University of Southern California, USA. He also attended the Advanced Management Programme at Harvard Business School.
-
 ***
 
 ![](/assets/images/Aileen-Chia-5.jpg)
