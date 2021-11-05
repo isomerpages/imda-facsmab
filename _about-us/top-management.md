@@ -3,20 +3,22 @@ title: Top Management
 permalink: /about-us/top-management
 ---
 ## **Top Management**
-![](images/Buntar1.png)
+![](images/AITI photo.png)
 Ir. Haji Jailani Haji Buntar
 
-Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
+Acting Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 
-Pengiran Haji Md Zain first served as Chief Executive of the Authority for Info-communications Technology Industry of Brunei Darussalam (AITI) from 2007 to 2010 and was reappointed on 11 May 2015.
+Ir. Haji Jailani is the Acting Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI). 
 
-Between 2010 and 2015, he was director of a number of divisions and departments under the Ministry of Communications and was responsible for communications and transportation policies in maritime, civil aviation, public land transportation, logistics as well as postal and ICT industries. He also served during this time as chairman of both BIMP-EAGA ICT Working Group and BIMP-EAGA Transport Cluster.
+He has 21 years of working experience in the telecommunication industry covering licensing, spectrum management, broadband, numbering, convergence, market access, competition and tariff in the telecommunications market. He was involved in various projects in developing telecommunication infrastructures such as Asia America Gateway Submarine Cable Network, AITI Frequency Management System (AFMS) as well as various regulatory projects such as development of Radio Regulation, development of Spectrum Pricing and Numbering Plan for Brunei Darussalam. 
 
-He began his career in 1989 with Jabatan Telekom Brunei (JTB), spending a total of eleven years in various capacities including submarine cable projects, corporate planning, sales operation and counters, billing process, international affairs and regulatory issues.
+He currently leads the team that is responsible for regulatory matters in the telecommunications industry, international as well as on national infrastructure that mainly looks into broadband deployment of both wired and wireless technology, cybersecurity, postal services, personal data protection and ICT Industry Development. 
 
-Academically, Pengiran Haji Md Zain graduated with a B.A. (Hons) in Electrical Information Sciences Trips and an M.A. from Cambridge University. He was also awarded the Chevening Scholarship to Cranfield School of Management where he obtained his M.B.A.
+Ir. Haji Jailani also represents Brunei Darussalam in various international meetings in International Telecommunication Union (ITU), APEC-TEL, ASEAN and Asia-Pacific Telecommunity (APT) and has been appointed as the chairman and moderator in local and international meetings and conferences. 
 
-Apart from this, he has recently attended the Leadership in Development programme at Harvard Kennedy School. His professional qualifications include his position as Honorary Chairman of the Institution of Engineering and Technology (IET) Brunei Network in 2008/2009. The IET is headquartered in London and is the second largest professional body in the world. He is a ‘Chartered Engineer’ and is also a Fellow of IET UK.
+Ir. Haji Jailani holds Master of Communications Management from Coventry University under the Chevening Scholarship from United Kingdom in collaboration with Cable & Wireless in 2004 and obtained his Bachelor of Engineering in Electrical and Electronics from University of Glasgow, Scotland in 1999. He also attended Leadership Training Course in National University of Singapore in 2013.
+
+
 
 ***
 
