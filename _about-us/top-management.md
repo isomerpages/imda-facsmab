@@ -21,7 +21,7 @@ Ir. Haji Jailani holds Master of Communications Management from Coventry Univers
 
 ***
 
-![](/assets/images/IMDA photo.jpg)
+![](/assets/images/IMDA photo1.png)
 Ms. Aileen Chia
 
 Deputy Chief Executive (Connectivity Development & Regulation) 
@@ -37,7 +37,7 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 
 ***
 
-![](/assets/images/MCMC Photo.jpg)
+![](/assets/images/MCMC Photo.png)
 Dr. Fadhlullah Suhaimi bin Abdul Malek
 
 Chairman, Malaysian Communications and 
