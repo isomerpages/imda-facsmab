@@ -37,7 +37,7 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 
 ***
 
-![](/assets/images/Mr-Al-Ishsal2.jpg)
+![](/assets/images/Chairman of MCMC photo.jpg)
 Mr. Al-Ishsal Ishak
 
 Chairman, Malaysian Communications and 
