@@ -38,15 +38,24 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 ***
 
 ![](/assets/images/Chairman of MCMC photo.jpg)
-Mr. Al-Ishsal Ishak
+Dr. Fadhlullah Suhaimi bin Abdul Malek
 
 Chairman, Malaysian Communications and 
 Multimedia Commission (MCMC)
 
-He holds a Bachelor of Management (Honours) degree from Universiti Sains Malaysia and was a Japan Airlines Scholar at Sophia University, Tokyo. 
+Dr. Fadhlullah Suhaimi bin Abdul Malek is currently the Chairman of the Malaysian
+Communications and Multimedia Commission (MCMC). Dr. Fadhlullah had previously servedas the Vice-Chancellor and Chief Executive Officer of Perdana University. Not a stranger to the Commission, Dr. Fadhlullah had also previously served as its Commission Member as well as its Chief Officer of Network Security, New Media Monitoring, Compliance and Advocacy.
 
-Soon after graduation, he embarked into entrepreneurial endeavours in the digital space from 1994 to 2008. As one of the first Internet start-ups in Malaysia, Mr. Al-Ishsal was involved with the Multimedia Super Corridor (MSC) launch in August 1996. Today, every Malaysian carries a piece of the pioneering MSC initiative with them in the form of the MyKad, and the MSC logo at its centre.
+He has served in the Ministry of Health, and was part of the web-shaper team for
+the Telehealth and Multipurpose Card during the early years of the Malaysia’s Multimedia
+Super Corridor (MSC). He later joined Telekom Malaysia Berhad, and last served as it’s Chief Corporate and Regulatory Officer.
 
-Prior to joining MCMC, he was the Group Chief Executive Officer of Pos Malaysia Berhad. His vast experience includes roles as Chief Digital Officer of McCann Worldgroup, Managing Director of South East Asia ECO Capacity Exchange Ltd. (London), CEO of Caterham Bikes Ltd. (Tune Group) and CEO of Baraka Telecom. He had also held senior management positions among other in Tune Group and Malaysia Airlines Berhad.
+Dr. Fadhlullah is a founding member of the Communications and Multimedia Content Forum
+(CMCF) and the Malaysia Internet Exchange (MyIX). In 2010, he moved to the Prime
+Minister’s Office’s Performance Management and Delivery Unit (PEMANDU) and served as its Director for National Key Economic Areas (NKEA) on Communication Content and
+Infrastructure, Agriculture and Rural Development. There is also served as the Chief Communications Officer for Strategic Communications for the government.
 
-Mr. Al-Ishsal was on the Board of Malaysia Digital Economy Corporation (MDeC) and a former member of the National Information Technology Council (NITC).
+He presently serves too as an Adjunct Professor at Universiti Teknologi Malaysia (UTM) and Perdana University.
+
+A medical doctor by training receiving his medical degree from Universiti Kebangsaan
+Malaysia (UKM), Masters of Medicine in Public Health from the National University of Singapore, and an MA in Health Management Planning and Policy with distinction from the University of Leeds. He also attended the Senior Management Programme at INSEAD.
