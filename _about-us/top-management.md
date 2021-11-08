@@ -37,7 +37,7 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 
 ***
 
-![](/assets/images/Chairman of MCMC photo.jpg)
+![](/assets/images/MCMC Photo.jpg)
 Dr. Fadhlullah Suhaimi bin Abdul Malek
 
 Chairman, Malaysian Communications and 
