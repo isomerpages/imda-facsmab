@@ -21,17 +21,17 @@ Ir. Haji Jailani holds Master of Communications Management from Coventry Univers
 
 ***
 
-![](/assets/images/Aileen-Chia-5.jpg)
+![](/assets/images/Aileen Chia.jpg)
 Aileen Chia
 
+Deputy Chief Executive (Connectivity Development & Regulation) 
 Director-General (Telecoms & Post)
-Deputy Chief Executive (Policy, Regulation and Competition Development)Infocomm Media Development Authority
+Deputy Executive Director (POFMA Office)
+Infocomm Media Development Authority (IMDA)
 
-Member, Competition Commission of Singapore
+Ms Aileen Chia is currently the Deputy Chief Executive and Director-General (Telecoms and Post) of the IMDA, a statutory board in the Singapore government which regulates the infocomm, media and postal sectors, and comprises the Personal Data Protection Commission.
 
-Ms Chia Aileen is currently the Assistant Chief Executive and Director-General (Telecoms and Post) of the IMDA. Ms Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm media and postal sectors in Singapore through the development and implementation of policy and regulatory frameworks, and development strategies for these sectors.
-
-She is also a member on the Competition Commission of Singapore.
+Ms Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm, media and postal sectors in Singapore through the formulation and implementation of policy and regulatory frameworks, and development strategies for these sectors.
 
 She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.
 
