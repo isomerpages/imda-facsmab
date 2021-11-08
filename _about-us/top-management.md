@@ -21,7 +21,7 @@ Ir. Haji Jailani holds Master of Communications Management from Coventry Univers
 
 ***
 
-![](/assets/images/Aileen Chia.jpg)
+![](/assets/images/IMDA Photo.jpg)
 Ms. Aileen Chia
 
 Deputy Chief Executive (Connectivity Development & Regulation) 
