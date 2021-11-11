@@ -7,7 +7,7 @@ permalink: /about-us/top-management
 Ir. Haji Jailani Haji Buntar
 
 Acting Chief Executive
-Info-communications Technology Industry of Brunei Darussalam (AITI)
+<br>Info-communications Technology Industry of Brunei Darussalam (AITI)
 
 ![](/assets/images/AITI photo.png)
 
@@ -23,14 +23,14 @@ Ir. Haji Jailani holds Master of Communications Management from Coventry Univers
 
 
 ***
-
-![](/assets/images/IMDA Photo1.png)
 Ms. Aileen Chia
 
 Deputy Chief Executive (Connectivity Development & Regulation) 
 <br>Director-General (Telecoms & Post)
 <br>Deputy Executive Director (POFMA Office)
 <br>Infocomm Media Development Authority (IMDA)
+
+![](/assets/images/IMDA Photo1.png)
 
 Ms Aileen Chia is currently the Deputy Chief Executive and Director-General (Telecoms and Post) of the IMDA, a statutory board in the Singapore government which regulates the infocomm, media and postal sectors, and comprises the Personal Data Protection Commission.
 
@@ -39,12 +39,13 @@ Ms Chia seeks to create a competitive, internationally-connected and trusted env
 She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.
 
 ***
-
-![](/assets/images/MCMC Photo.png)
 Dr. Fadhlullah Suhaimi bin Abdul Malek
 
-Chairman, Malaysian Communications and 
+Chairman
+<br>Malaysian Communications and 
 Multimedia Commission (MCMC)
+
+![](/assets/images/MCMC Photo.png)
 
 Dr. Fadhlullah Suhaimi bin Abdul Malek is currently the Chairman of the Malaysian Communications and Multimedia Commission (MCMC). Dr. Fadhlullah had previously served as the Vice-Chancellor and Chief Executive Officer of Perdana University. Not a stranger to the Commission, Dr. Fadhlullah had also previously served as its Commission Member as well as its Chief Officer of Network Security, New Media Monitoring, Compliance and Advocacy. 
 
