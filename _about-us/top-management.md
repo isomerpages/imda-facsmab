@@ -5,8 +5,7 @@ permalink: /about-us/top-management
 ## **Top Management**
 
 Ir. Haji Jailani Haji Buntar
-
-Acting Chief Executive
+<br>Acting Chief Executive
 <br>Info-communications Technology Industry of Brunei Darussalam (AITI)
 
 ![](/assets/images/AITI photo.png)
@@ -24,8 +23,7 @@ Ir. Haji Jailani holds Master of Communications Management from Coventry Univers
 
 ***
 Ms. Aileen Chia
-
-Deputy Chief Executive (Connectivity Development & Regulation) 
+<br>Deputy Chief Executive (Connectivity Development & Regulation) 
 <br>Director-General (Telecoms & Post)
 <br>Deputy Executive Director (POFMA Office)
 <br>Infocomm Media Development Authority (IMDA)
@@ -40,8 +38,7 @@ She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Polic
 
 ***
 Dr. Fadhlullah Suhaimi bin Abdul Malek
-
-Chairman
+<br>Chairman
 <br>Malaysian Communications and 
 Multimedia Commission (MCMC)
 
