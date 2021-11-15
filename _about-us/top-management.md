@@ -6,7 +6,7 @@ permalink: /about-us/top-management
 
 Ir. Haji Jailani Haji Buntar
 <br>Acting Chief Executive
-<br>Info-communications Technology Industry of Brunei Darussalam (AITI)
+<br>Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 
 ![](/assets/images/AITI photo.png)
 
@@ -30,11 +30,11 @@ Ms. Aileen Chia
 
 ![](/assets/images/IMDA Photo1.png)
 
-Ms Aileen Chia is currently the Deputy Chief Executive and Director-General (Telecoms and Post) of the IMDA, a statutory board in the Singapore government which regulates the infocomm, media and postal sectors, and comprises the Personal Data Protection Commission.
+Ms. Aileen Chia is currently the Deputy Chief Executive and Director-General (Telecoms and Post) of the IMDA, a statutory board in the Singapore government which regulates the infocomm, media and postal sectors, and comprises the Personal Data Protection Commission.
 
-Ms Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm, media and postal sectors in Singapore through the formulation and implementation of policy and regulatory frameworks, and development strategies for these sectors.
+Ms. Chia seeks to create a competitive, internationally-connected and trusted environment to enable the development of the infocomm, media and postal sectors in Singapore through the formulation and implementation of policy and regulatory frameworks, and development strategies for these sectors.
 
-She holds a Bachelor Degree in Economics (Honours) and a Masters of Public Policy from the National University of Singapore.
+She holds a Bachelor Degree in Economics (Honours) and a Master of Public Policy from the National University of Singapore.
 
 ***
 Dr. Fadhlullah Suhaimi bin Abdul Malek
