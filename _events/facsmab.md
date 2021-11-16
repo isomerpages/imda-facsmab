@@ -10,6 +10,7 @@ permalink: /Events
 |8th Apr 2021 | 920th FACSMAB | Malaysia | Teleconference Meeting |
 |17th Jun 2021 | 921st FACSMAB | Singapore | Teleconference Meeting |
 |19th Aug 2021 | 922nd FACSMAB | Brunei Darussalam | Teleconference Meeting |
-|13th Oct 2021 | 923rd FACSMAB | Malaysia | Teleconference Meeting |
-|14th Oct 2021 | 22nd FACSMAB Review | Malaysia | Teleconference Meeting |
-|16th Dec 2021 | 924th FACSMAB | Singapore | Teleconference Meeting |
+|13th Oct 2021 | 923rd FACSMAB | Singapore | Teleconference Meeting |
+|16th Dec 2021 | 7th HSC-SWG Meeting | Singapore | Teleconference Meeting |
+|22nd Dec 2021 | 924th FACSMAB | Malaysia | Teleconference Meeting |
+|23rd Dec 2021 | 22nd FACSMAB Review | Malaysia | Teleconference Meeting |
