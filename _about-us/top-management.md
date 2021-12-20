@@ -5,7 +5,7 @@ permalink: /about-us/top-management
 ## **Top Management**
 
 Ir. Haji Jailani Haji Buntar
-<br>Acting Chief Executive
+<br>Chief Executive
 <br>Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 
 ![](/assets/images/AITI photo.png)
