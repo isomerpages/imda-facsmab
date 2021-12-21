@@ -5,12 +5,12 @@ permalink: /about-us/top-management
 ## **Top Management**
 
 Ir. Haji Jailani Haji Buntar
-<br>Acting Chief Executive
+<br>Chief Executive
 <br>Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)
 
 ![](/assets/images/AITI photo.png)
 
-Ir. Haji Jailani is the Acting Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI). 
+Ir. Haji Jailani is the Chief Executive, Authority for Info-communications Technology Industry of Brunei Darussalam (AITI). 
 
 He has 21 years of working experience in the telecommunication industry covering licensing, spectrum management, broadband, numbering, convergence, market access, competition and tariff in the telecommunications market. He was involved in various projects in developing telecommunication infrastructures such as Asia America Gateway Submarine Cable Network, AITI Frequency Management System (AFMS) as well as various regulatory projects such as development of Radio Regulation, development of Spectrum Pricing and Numbering Plan for Brunei Darussalam. 
 
