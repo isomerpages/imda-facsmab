@@ -12,3 +12,6 @@ permalink: /Events
 |18th Aug 2021 | 928th FACSMAB | Malaysia | Teleconference Meeting |
 |19th Oct 2021 | 929th FACSMAB | Brunei Darussalam | Teleconference Meeting |
 |20th Oct 2021 | 23rd FACSMAB Review | Brunei Darussalam | Teleconference Meeting |
+|15th Dec 2021 | 930th FACSMAB | Singapore | Teleconference Meeting |
+
+
