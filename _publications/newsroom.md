@@ -44,27 +44,23 @@ IMDA announced a new $30 million fund to accelerate the adoption and commerciali
 
 
 ### Malaysia
-**Sharing Session on Outcome of World Radiocommunication Conference 2015 and Formation of the National Preparatory Working Group for World Radiocommunication Conference 2019 (“NPWG-19”)**<br>
-*12 May 2016*<br>
-The above session was held to share on the outcome of WRC-15 and to inform on the formation of the NPWG-19. This group will carry out preparatory work on WRC-19 agenda items.<br>
-[Read More](http://www.skmm.gov.my/Media/Events/MCMC/Sharing-Session-on-Outcome-of-World-Radiocommunica.aspx)
+**Public Consultation on Wireless Local Area Network (WLAN) in the 6 GHz Frequency Band**<br>
+*12 August 2021*<br>
+In ensuring efficient use of spectrum while facilitating the development of new technologies and applications, the MCMC published a Public Consultation (PC) document on 12 August 2021, inviting industry participants, interested parties and members of the public to submit recommendations, opinions, and comments on the potential use of the 6 GHz frequency band for Wireless Local Area Network (WLAN) in Malaysia under the Class Assignment.
 
-**11th ITU Symposium on ICT Environment and Climate Change**<br>
-*28 March 2016*<br>
-ITU had organized the 11th ITU Symposium on ICTs, the Environment and Climate Change, which was hosted by the Ministry of Communications and Multimedia Malaysia and the Malaysian Communications and Multimedia Commission on 21 April 2016, in Kuala Lumpur, Malaysia in conjunction with ITU-T Study Group 5 "Environment and Climate Change" meeting which convened from 20 to 27 April 2016. The objective of this Symposium was to raise awareness of the potential ICTs possess to address environmental challenges and to encourage stakeholders to integrate existing and emerging ICT-based solutions into their activities for an overall ‘smarter’ and more holistically ‘sustainable’ future for mankind.<br>
-[Read More](http://www.skmm.gov.my/Media/Events/MCMC/11th-ITU-Symposium-on-ICT,-Environment-and-Climate.aspx)
+The PC was carried out from 12 August to 11 October 2021. By the end of the PC period, MCMC received twenty-four (24) written submissions from telecommunication companies, satellite operators, system and equipment manufacturers, software and application providers and international organisations.<br>
+[Read More](https://www.mcmc.gov.my/en/spectrum/consultation/public-consultation-on-wireless-local-area-network)
 
-**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 2 of 2016**<br>
-*24 February 2016*<br>
-These guidelines set out the testing procedures, examples of computations, reporting templates, and explanatory notes to the standards in the MSQoS.<br>
-[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wired-Broadband-Access-Service.pdf)
+**JENDELA Quarterly Report (1 July – 30 September 2021)**<br>
+*15 October 2021*<br>
+The Jalinan Digital Negara (JENDELA) plan was formulated to provide wider coverage and better quality of broadband experience for the Rakyat, whilst preparing the country for 5G technology. Explore the many initiatives set up to bring you improved connectivity and communication.
 
-**Guidelines to the Commission Determination on the Mandatory Standards for Quality of Service (Wireless Broadband Access Service), Determination 1 of 2016**<br>
-*24 February 2016*<br>
-These guidelines set out the testing procedures, examples of computations, reporting templates, explanatory notes and list of designated areas to the standards in the Mandatory Standards.<br>
-[Read More](http://skmm.gov.my/skmmgovmy/media/General/pdf/Guideline-Wireless-Broadband-Access-Service.pdf)
+MCMC has recently published its fourth JENDELA quarterly report for the period of 1 July to 30 September 2021.<br>
+[Read More](https://myjendela.my/Sitejendela/media/Doc/JENDELA_4thQuarterlyReport_V4_1.pdf)
 
-**Spectrum Reallocation**<br>
-*01 February 2016*<br>
-MCMC Chairman, Dato’ Sri Halim Shafie announced that frequency bands of 900 MHz and 1800 MHz will be assigned for a fee to Celcom, Digi, Maxis and U Mobile for a period of 15 years. MCMC intends to issue the spectrum assignment to all four players by August 2016 for full implementation by 1 July 2017. The reallocation and conversion to spectrum assignment provide more certainty on the length of time these four players will have the right to use this spectrum. Dato’ Sri Halim Shafie also stated that MCMC will also address the optimal usage of other relevant spectrum bands such as the 700MHz, 2300MHz, 2600MHz bands, etc. by the end of 2016.<br>
-[Read More](http://skmm.gov.my/Media/Press-Releases/MCMC-Announces-Spectrum-Reallocation.aspx)
+**3G Network Sunsetting**<br>
+*2 March 2021*<br>
+3G sunsetting is the gradual retirement of all the 3G network in Malaysia by mobile network operators (MNOs), namely Celcom Axiata Berhad (“Celcom”), Digi Telecommunications Sdn Bhd (“Digi”), Maxis Berhad (“Maxis”) and U Mobile Sdn Bhd (“U Mobile”) by 31 December 2021. The completion of 3G network sunsetting will then enable the MNOs to provide faster and better 4G experience.<br>
+[Read More](https://myjendela.my/Sitejendela/media/Doc/FAQ_3G_NETWORK_SUNSET.pdf)
+
+
