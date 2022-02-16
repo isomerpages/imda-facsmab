@@ -46,12 +46,6 @@ All businesses will have access to open testbeds to develop, adopt, and commerci
 IMDA announced a new $30 million fund to accelerate the adoption and commercialisation of 5G solutions. The new 5G fund is a continuation of Singapore’s plans to support more companies with commercialisation of 5G solutions.<br>
 [Read More](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2021/Singapore-accelerates-5G-adoption-and-commercialisation-with-new-30m-fund)
 
-
-**700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
-*29 April 2016*<br>
-IDA has published the Information Memorandum and Auction Rules for the 700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction, for the provision of 4G and/or IMT-Advanced telecommunication systems and services, for clarification by interested bidders.<br>
-[Read More](https://www.imda.gov.sg/regulations-and-licensing-listing/spectrum-management-and-coordination/spectrum-rights-auctions-and-assignment/700-mhz-spectrum-rights-900-mhz-spectrum-rights-2-3-ghz-spectrum-rights)
-
 ***
 
 
