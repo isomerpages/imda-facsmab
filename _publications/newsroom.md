@@ -37,34 +37,20 @@ IMDA has issued a Final Provisional Award Notice to each Winning Bidder.<br>
 [Read More](https://www.imda.gov.sg/regulations-and-licensing-listing/spectrum-management-and-coordination/spectrum-rights-auctions-and-assignment/Auction-of-2-1-GHz-Spectrum-Rights-2022-for-5G)
 
 **All Businesses to get Access to 5G Innovation with Four 5G Open Testbeds**<br>
-19 October 2021<br>
+*19 October 2021*<br>
 All businesses will have access to open testbeds to develop, adopt, and commercialise 5G solutions as Singapore forges ahead in 5G innovation. The four testbeds located at the Maritime Drone Estate, Singapore Science Park, PIXEL, and Sentosa, will enable businesses of different sizes, industries, and technology readiness levels, to experiment with and develop 5G solutions in areas such as drone deliveries, maritime operations, smart cities solutions, and content production.<br>
 [Read More](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2021/All-businesses-to-get-access-to-5G-innovation-with-four-5G-open-testbeds)
+
+**Singapore Accelerates 5G Adoption and Commercialisation with New $30m Fund** <br>
+*20 January 2021*<br>
+IMDA announced a new $30 million fund to accelerate the adoption and commercialisation of 5G solutions. The new 5G fund is a continuation of Singapore’s plans to support more companies with commercialisation of 5G solutions.<br>
+[Read More](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2021/Singapore-accelerates-5G-adoption-and-commercialisation-with-new-30m-fund)
+
 
 **700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
 *29 April 2016*<br>
 IDA has published the Information Memorandum and Auction Rules for the 700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction, for the provision of 4G and/or IMT-Advanced telecommunication systems and services, for clarification by interested bidders.<br>
 [Read More](https://www.imda.gov.sg/regulations-and-licensing-listing/spectrum-management-and-coordination/spectrum-rights-auctions-and-assignment/700-mhz-spectrum-rights-900-mhz-spectrum-rights-2-3-ghz-spectrum-rights)
-
-**Framework for Assignment of Frequencies on Non-Interference and Non-Protection Basis**<br>
-*17 March 2016*<br>
-IDA will make available frequencies from the 1800 MHz centre gap (i.e., 1790 – 1800 MHz) for commercial use to provide telecommunication services, in accordance with the Constrained Band Framework. Any assignment under the Constrained Band Framework will be on a first-come-first-served basis, subject to the submission of a duly completed proposal by the interested party to IDA.<br>
-[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Regulation-Licensing-and-Consultations/Frameworks-and-Policies/Spectrum-Management-and-Coordination/ConstrainedBandFramework_170316.pdf)
-
-**IDA’s Explanatory Memo on the Amendments to the Telecommunications (Radio-Communication) Regulations**<br>
-*07 March 2016*<br>
-IDA has issued its decision on the Amendments to the Telecommunications (Radio-Communication) Regulations.<br>
-[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Inner/PCDG/Consultations/20141217_TelcomRegulations/RR-Review-Explanatory-Memo_for-publication.pdf?la=en&hash=C32018789AE355CEBE2079ED3B8C5CC8)
-
-**IDA’s Decision and Explanatory Memo on the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) and IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
-*18 February 2016*<br>
-IDA has issued its decision on the Framework for the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) And IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market.<br>
-[Read More](https://www.imda.gov.sg/-/media/Imda/Files/Inner/PCDG/Consultations/20150707_SecondPublicConsultation/Decision.pdf?la=en&hash=0728E33795CB6CB5B411B8DEA2B23716)
-
-**Proposed Framework for the Allocation of Spectrum for International Mobile Telecommunications (“IMT”) And IMT-Advanced Services and for the Enhancement of Competition in the Mobile Market**<br>
-*07 July 2015*<br>
-Second Public Consultation involving the technical considerations for the allocation of spectrum (e.g., the 700 MHz, 800 MHz and 1.4 GHz bands, etc) and the proposed facilitation framework for new entrants.<br>
-[Read More](https://www.imda.gov.sg/regulations-and-licensing/Regulations/consultations/Consultation-Papers/2016/proposed-allocation-of-spectrum-for-international-mobile-telecommunications-imt-and-imt-advanced-services-and-options-to-enhance-mobile-competition)
 
 ***
 
