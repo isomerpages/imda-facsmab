@@ -36,6 +36,11 @@ The Phase 1 of the Assignment Stage of the Auction of 2.1 GHz Spectrum Rights (2
 IMDA has issued a Final Provisional Award Notice to each Winning Bidder.<br>
 [Read More](https://www.imda.gov.sg/regulations-and-licensing-listing/spectrum-management-and-coordination/spectrum-rights-auctions-and-assignment/Auction-of-2-1-GHz-Spectrum-Rights-2022-for-5G)
 
+**All Businesses to get Access to 5G Innovation with Four 5G Open Testbeds**<br>
+19 October 2021<br>
+All businesses will have access to open testbeds to develop, adopt, and commercialise 5G solutions as Singapore forges ahead in 5G innovation. The four testbeds located at the Maritime Drone Estate, Singapore Science Park, PIXEL, and Sentosa, will enable businesses of different sizes, industries, and technology readiness levels, to experiment with and develop 5G solutions in areas such as drone deliveries, maritime operations, smart cities solutions, and content production.<br>
+[Read More](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2021/All-businesses-to-get-access-to-5G-innovation-with-four-5G-open-testbeds)
+
 **700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
 *29 April 2016*<br>
 IDA has published the Information Memorandum and Auction Rules for the 700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction, for the provision of 4G and/or IMT-Advanced telecommunication systems and services, for clarification by interested bidders.<br>
