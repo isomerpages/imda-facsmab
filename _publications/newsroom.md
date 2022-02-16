@@ -44,13 +44,6 @@ IMDA announced a new $30 million fund to accelerate the adoption and commerciali
 
 
 ### Malaysia
-**Public Consultation on Wireless Local Area Network (WLAN) in the 6 GHz Frequency Band**<br>
-*12 August 2021*<br>
-In ensuring efficient use of spectrum while facilitating the development of new technologies and applications, the MCMC published a Public Consultation (PC) document on 12 August 2021, inviting industry participants, interested parties and members of the public to submit recommendations, opinions, and comments on the potential use of the 6 GHz frequency band for Wireless Local Area Network (WLAN) in Malaysia under the Class Assignment.
-
-The PC was carried out from 12 August to 11 October 2021. By the end of the PC period, MCMC received twenty-four (24) written submissions from telecommunication companies, satellite operators, system and equipment manufacturers, software and application providers and international organisations.<br>
-[Read More](https://www.mcmc.gov.my/en/spectrum/consultation/public-consultation-on-wireless-local-area-network)
-
 **JENDELA Quarterly Report (1 July – 30 September 2021)**<br>
 *15 October 2021*<br>
 The Jalinan Digital Negara (JENDELA) plan was formulated to provide wider coverage and better quality of broadband experience for the Rakyat, whilst preparing the country for 5G technology. Explore the many initiatives set up to bring you improved connectivity and communication.
@@ -58,9 +51,18 @@ The Jalinan Digital Negara (JENDELA) plan was formulated to provide wider covera
 MCMC has recently published its fourth JENDELA quarterly report for the period of 1 July to 30 September 2021.<br>
 [Read More](https://myjendela.my/Sitejendela/media/Doc/JENDELA_4thQuarterlyReport_V4_1.pdf)
 
+**Public Consultation on Wireless Local Area Network (WLAN) in the 6 GHz Frequency Band**<br>
+*12 August 2021*<br>
+In ensuring efficient use of spectrum while facilitating the development of new technologies and applications, the MCMC published a Public Consultation (PC) document on 12 August 2021, inviting industry participants, interested parties and members of the public to submit recommendations, opinions, and comments on the potential use of the 6 GHz frequency band for Wireless Local Area Network (WLAN) in Malaysia under the Class Assignment.
+
+The PC was carried out from 12 August to 11 October 2021. By the end of the PC period, MCMC received twenty-four (24) written submissions from telecommunication companies, satellite operators, system and equipment manufacturers, software and application providers and international organisations.
+
+Following the Public Consultation on Wireless Local Area Network (WLAN) in the 6 GHz Frequency Band, MCMC issues Class Assignment No. 1 of 2022 on 19 January 2022, which included an update on the Class Assignment for Short Range Device (Second Schedule) to allow the use of radiocommunications devices, including WLAN applications, in the 5925 MHz to 6425 MHz frequency band, subject to the conditions stipulated in the Class Assignment. The latest Class Assignment document can be found in this URL: http://www.mcmc.gov.my/en/spectrum/assignment-of-spectrum/class-assignment .
+
+To ensure that Malaysia attains the best use of the 6 GHz spectrum, MCMC will continue to monitor the global development and international studies of the 6425 MHz to 7125 MHz frequency band, including the outcome of the World Radiocommunication Conference 2023 on this frequency band.<br>
+[Read More](https://www.mcmc.gov.my/en/spectrum/consultation/public-consultation-on-wireless-local-area-network)
+
 **3G Network Sunsetting**<br>
 *2 March 2021*<br>
 3G sunsetting is the gradual retirement of all the 3G network in Malaysia by mobile network operators (MNOs), namely Celcom Axiata Berhad (“Celcom”), Digi Telecommunications Sdn Bhd (“Digi”), Maxis Berhad (“Maxis”) and U Mobile Sdn Bhd (“U Mobile”) by 31 December 2021. The completion of 3G network sunsetting will then enable the MNOs to provide faster and better 4G experience.<br>
 [Read More](https://myjendela.my/Sitejendela/media/Doc/FAQ_3G_NETWORK_SUNSET.pdf)
-
-
