@@ -4,27 +4,21 @@ permalink: /Publications/newsroom
 ---
 ## **Newsroom**
 ### Brunei Darussalam
-**PCP for Amateur Radio Single Prefix Call Signs** <br>
-*25 April 2016*<br>
-AITI had conducted a PCP on Amateur Radio Single Prefix Call Signs. The aim is to seek views from Amateur Radio enthusiasts on the proposal for Amateur Radio Single Prefix Call signs which may be introduced by AITI. This is also to provide opportunity for Amateur Radio enthusiasts to provide their feedback and partake in the process of exploring the possibility of introducing Amateur Radio Single Prefix Call Sign.<br>
-[Read More](http://www.aiti.gov.bn/downloadables/Downloadables%20Library/CONSULTATION%20Paper%20for%20Single%20Prefix[3].pdf)
+**Launch of 5G Pilot Project and Handover 5G Taskforce Report**<br>
+*3 April 2021*<br>
+AITI has launched the 5G Pilot Project at The Mall, Gadong. The 5G pilot project is deployed as commissioned by the Ministry of Transport and Infocommunications and spearheaded by AITI with involvement from telecommunications infrastructure and service providers as well as various industry stakeholders and players with the objective of supporting strategic objectives and priorities under the Digital Economy Masterplan 2025.<br>
+[Read More](http://www.5g.bn/5g-launching-of-5g-showcase)
 
-**900 MHz Spectrum Rights to DST**<br>
-*15 April 2016*<br>
-AITI has granted the Spectrum Rights for the band 910-915 MHz/ 955-960 MHz to DataStream Technology Sdn Bhd (DST). It is for the deployment of UMTS technology in 900 MHz band.
+**2G Network Services Decommission**<br>
+*5 March 2021*<br>
+AITI and UNN have announced publicly that the 2G Network services will complete cessation by 1 June 2021. This provides an opportunity for 2G subscribers to move to higher technology services namely 3G, 4G, and eventually, 5G. <br>
+[Read More](https://www.aiti.gov.bn/SitePages/News.aspx?AID=69)
 
-**Brunei Darussalam Radio Spectrum Plan Book**<br>
-*20 May 2015*<br>
-Launching of Brunei Darussalam Radio Spectrum Plan Book. To provides a clear picture on how the radio frequency is currently utilised in Brunei Darussalam and how AITI plans to develop it further in the future.<br>
-[Read More](http://www.aiti.gov.bn/downloadables/Downloadables%20Library/Brunei%20Darussalam%20Radio%20Spectrum%20Plan%202014-2015.pdf)
-  
-**1800 MHz Spectrum Rights**<br>
-*05 December 2013*<br>
-AITI has granted the Spectrum Rights for the band 1765-1785 MHz/ 1860-1880 MHz to DataStream Technology Sdn Bhd (DST). It is for the deployment of LTE technology in 1800 MHz band.
-  
-**AITI conducts CommunicAsia 2013 Briefing**<br>
-*18 January 2013*<br>
-AITI conducts CommunicAsia 2013 Briefing.
+**“5G Enabling Digital Transformation” Seminar organised by 5G Taskforce**<br>
+*28 January 2021*<br>
+AITI collaborated with Brunei Darussalam 5G Taskforce to host a seminar with the theme “5G”.
+The seminar aimed to raise awareness on 5G economic impact and opportunities with the emergence of various 5G applications towards innovation and digital transformation. <br>
+[Read More](http://www.5g.bn/5g-seminar-1)
 
 ***
 
