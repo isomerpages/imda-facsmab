@@ -29,6 +29,13 @@ AITI conducts CommunicAsia 2013 Briefing.
 ***
 
 ### Singapore
+**Auction of 2.1 GHz Spectrum Rights (2022) for 5G** <br>
+*29 April 2016*<br>
+The Phase 1 of the Assignment Stage of the Auction of 2.1 GHz Spectrum Rights (2022) commenced on 26 November 2021. Winning Bidders were able to reach an agreement on the placement of lots and submitted the Form for Agreement or Non-Agreement of Spectrum Assignment to IMDA on 7 December 2021. IMDA has reviewed and accepted the proposed assignment. The Assignment Stage is closed. <br>
+
+IMDA has issued a Final Provisional Award Notice to each Winning Bidder.
+[Read More](https://www.imda.gov.sg/regulations-and-licensing-listing/spectrum-management-and-coordination/spectrum-rights-auctions-and-assignment/Auction-of-2-1-GHz-Spectrum-Rights-2022-for-5G)
+
 **700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction (“2016 Spectrum Auction”)**<br>
 *29 April 2016*<br>
 IDA has published the Information Memorandum and Auction Rules for the 700 MHz Spectrum Rights (2016), 900 MHz Spectrum Rights (2016), 2.3 GHz Spectrum Rights (2016) and 2.5 GHz Spectrum Rights (2016) Auction, for the provision of 4G and/or IMT-Advanced telecommunication systems and services, for clarification by interested bidders.<br>
