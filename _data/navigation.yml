@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /assets/images/logo.jpg
-
 links:
   - title: HOME
     url: /
@@ -22,7 +15,7 @@ links:
         url: /about-us/top-management
   - title: EVENTS
     url: /Events/
-    sublinks:      
+    sublinks:
       - title: FACSMAB
         url: /Events/
       - title: Upcoming Events
@@ -42,5 +35,3 @@ links:
         url: /Publications/Newsroom
       - title: Photo-Gallery
         url: /Publications/Photo-Gallery
-      - title: E-Newsletter
-        url: /Publications/E-Newsletter
