@@ -14,24 +14,24 @@ links:
       - title: Top Management
         url: /about-us/top-management
   - title: EVENTS
-    url: /Events/
+    url: events
     sublinks:
       - title: FACSMAB
-        url: /Events/
+        url: events
       - title: Upcoming Events
-        url: /Events/Upcoming-Events
+        url: events/upcoming-events
       - title: Regional
-        url: /Events/Regional
+        url: events/regional
       - title: International
-        url: /Events/International
+        url: events/international
   - title: PUBLICATIONS
-    url: /Publications/
+    url: publications
     sublinks:
       - title: Latest Publication
-        url: /Publications
+        url: publications
       - title: Past Publication
-        url: /Publications/Past-Publication
+        url: publications/past-publication
       - title: Newsroom
-        url: /Publications/Newsroom
+        url: /publications/newsroom
       - title: Photo-Gallery
-        url: /Publications/Photo-Gallery
+        url: publications/photo-gallery

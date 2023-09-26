@@ -25,7 +25,7 @@ sections:
         coordination of radio spectrum at the border areas of Brunei Darussalam,
         Malaysia and Singapore since 1948.
       button: Learn More
-      url: /About-Us
+      url: /about-us
       image: /assets/images/home_about_icon.gif
       alt: About-Us
   - resources:
@@ -34,5 +34,5 @@ sections:
       title: LATEST PUBLICATIONS
       description: 20TH REVIEW MEETING 3rd May 2019
       button: Learn More
-      url: /Publications
+      url: publications
 ---

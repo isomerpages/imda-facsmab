@@ -7,14 +7,14 @@ navlinks:
   - title: About us
     url: /about-us/
   - title: Events
-    url: /Events/
+    url: events
   - title: Publications
-    url: /Publications/
+    url: publications
   - title: Sitemap
-    url: /Sitemap/
+    url: sitemap
 links:
   - title: Copyright
-    url: /Copyright/
+    url: copyright
   - title: Disclaimer
-    url: /Disclaimer/
+    url: disclaimer
 social_media: {}
