@@ -44,8 +44,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-staging: https://imda-facsmab-staging.netlify.app
-prod: https://imda-facsmab-prod.netlify.app
+staging: https://staging.d3lmy8d2afsy6z.amplifyapp.com/
+prod: https://master.d3lmy8d2afsy6z.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
