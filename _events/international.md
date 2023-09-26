@@ -1,6 +1,6 @@
 ---
 title: International
-permalink: /Events/International
+permalink: /events/international/
 
 ---
 ## **International**

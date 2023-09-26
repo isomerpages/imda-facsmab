@@ -1,6 +1,6 @@
 ---
 title: 12th Review Meeting
-permalink: /Publications/Past-Publication/12TH-REVIEW-MEETING-28TH-SEP-2011
+permalink: /publications/past-publication/12th-review-meeting-28th-sep-2011/
 third_nav_title: Past Publications
 ---
 ## **12TH FACSMAB Review Meeting**

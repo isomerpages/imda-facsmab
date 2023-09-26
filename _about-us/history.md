@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/history
+permalink: /about-us/history/
 ---
 ## **History**
 **F**requency **A**ssignment **C**ommittee **S**ingapore, **M**alaysia And **B**runei Darussalam. The objective of the committee is to manage coordination of radio spectrum at the border areas of Brunei Darussalam, Malaysia and Singapore since 1948.

@@ -1,6 +1,6 @@
 ---
 title: 3rd Review Meeting
-permalink: /Publications/Past-Publication/3RD-REVIEW-MEETING-22ND-APR-2006
+permalink: /publications/past-publication/3rd-review-meeting-22nd-apr-2006/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

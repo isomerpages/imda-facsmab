@@ -1,6 +1,6 @@
 ---
 title: Roles
-permalink: /about-us/roles
+permalink: /about-us/roles/
 ---
 ### **Roles of FACSMAB**
 **FACSMAB** holds monthly coordination meetings from January to December every year. The three countries will alternate to host and chair the meetings.

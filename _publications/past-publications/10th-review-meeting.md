@@ -1,6 +1,6 @@
 ---
 title: 10th Review Meeting
-permalink: /Publications/Past-Publication/10TH-REVIEW-MEETING-25TH-MAR-2010
+permalink: /publications/past-publication/10th-review-meeting-25th-mar-2010/
 third_nav_title: Past Publications
 ---
 ## **10TH FACSMAB Review Meeting**

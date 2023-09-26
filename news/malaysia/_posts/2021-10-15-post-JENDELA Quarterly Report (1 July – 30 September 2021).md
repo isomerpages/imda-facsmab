@@ -1,7 +1,7 @@
 ---
 title: JENDELA Quarterly Report (1 July – 30 September 2021)
 date: 2021-10-15
-permalink: /news/malaysia/permalink
+permalink: /news/malaysia/permalink/
 layout: post
 description: ""
 ---

@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-permalink: /Disclaimer/
+permalink: /disclaimer/
 ---
 ### **Disclaimer**
 1. Whilst we endeavour to ensure that the materials and information (“Contents”) on this website is correct, we do not warrant its completeness or accuracy; nor do we commit to ensuring that the website remains available or that the material on the website is kept up-to-date.<br>

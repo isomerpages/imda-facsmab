@@ -1,6 +1,6 @@
 ---
 title: Latest Publication
-permalink: /Publications
+permalink: /publications/
 
 ---
 ## **LATEST PUBLICATION**

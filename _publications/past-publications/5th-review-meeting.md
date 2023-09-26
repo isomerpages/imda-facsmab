@@ -1,6 +1,6 @@
 ---
 title: 5th Review Meeting
-permalink: /Publications/Past-Publication/5TH-REVIEW-MEETING-18TH-MAY-2007
+permalink: /publications/past-publication/5th-review-meeting-18th-may-2007/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

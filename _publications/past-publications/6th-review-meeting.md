@@ -1,6 +1,6 @@
 ---
 title: 6th Review Meeting
-permalink: /Publications/Past-Publication/6TH-REVIEW-MEETING-24TH-JAN-2008
+permalink: /publications/past-publication/6th-review-meeting-24th-jan-2008/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

@@ -1,6 +1,6 @@
 ---
 title: 8th Review Meeting
-permalink: /Publications/Past-Publication/8TH-REVIEW-MEETING-20TH-JAN-2009
+permalink: /publications/past-publication/8th-review-meeting-20th-jan-2009/
 third_nav_title: Past Publications
 ---
 ## **8TH FACSMAB Review Meeting**

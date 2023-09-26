@@ -1,6 +1,6 @@
 ---
 title: Photo Gallery
-permalink: /Publications/Photo-Gallery
+permalink: /publications/photo-gallery/
 
 ---
 ![](/assets/images/Photo1.jpg)

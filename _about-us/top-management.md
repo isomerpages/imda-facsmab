@@ -1,6 +1,6 @@
 ---
 title: Top Management
-permalink: /about-us/top-management
+permalink: /about-us/top-management/
 ---
 ## **Top Management**
 

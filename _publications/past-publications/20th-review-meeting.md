@@ -1,6 +1,6 @@
 ---
 title: 20th Review Meeting
-permalink: /Publications/Past-Publication/20TH-Facsmab-Review-Meeting-3rd-May-2019
+permalink: /publications/past-publication/20th-facsmab-review-meeting-3rd-may-2019/
 third_nav_title: Past Publications
 ---
 ## **20TH FACSMAB Review Meeting**

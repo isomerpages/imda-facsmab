@@ -1,6 +1,6 @@
 ---
 title: Members
-permalink: /about-us/members
+permalink: /about-us/members/
 ---
 ### **Members of FACSMAB**
 

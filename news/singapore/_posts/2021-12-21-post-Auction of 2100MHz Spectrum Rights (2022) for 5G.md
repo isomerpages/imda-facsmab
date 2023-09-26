@@ -1,7 +1,7 @@
 ---
 title: Auction of 2100MHz Spectrum Rights (2022) for 5G
 date: 2021-12-21
-permalink: /singapore/permalink
+permalink: /singapore/permalink/
 layout: post
 description: ""
 ---

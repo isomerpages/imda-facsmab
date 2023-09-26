@@ -1,6 +1,6 @@
 ---
 title: 9th Review Meeting
-permalink: /Publications/Past-Publication/9TH-REVIEW-MEETING-18TH-JUN-2010
+permalink: /publications/past-publication/9th-review-meeting-18th-jun-2010/
 third_nav_title: Past Publications
 ---
 ## **9TH FACSMAB Review Meeting**

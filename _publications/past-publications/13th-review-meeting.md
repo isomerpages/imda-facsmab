@@ -1,6 +1,6 @@
 ---
 title: 13th Review Meeting
-permalink: /Publications/Past-Publication/13TH-REVIEW-MEETING-25TH-APR-2012
+permalink: /publications/past-publication/13th-review-meeting-25th-apr-2012/
 third_nav_title: Past Publications
 ---
 ## **13TH FACSMAB Review Meeting**

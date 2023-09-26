@@ -1,6 +1,6 @@
 ---
 title: 4th Review Meeting
-permalink: /Publications/Past-Publication/4TH-REVIEW-MEETING-20TH-SEP-2006
+permalink: /publications/past-publication/4th-review-meeting-20th-sep-2006/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

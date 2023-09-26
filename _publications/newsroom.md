@@ -1,6 +1,6 @@
 ---
 title: Newsroom
-permalink: /Publications/newsroom
+permalink: /publications/newsroom/
 ---
 ## **Newsroom**
 ### Brunei Darussalam

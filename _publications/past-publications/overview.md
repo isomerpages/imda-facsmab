@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /Publications/Past-Publication
+permalink: /publications/past-publication/
 third_nav_title: Past Publications
 ---
 ## **PAST PUBLICATION**

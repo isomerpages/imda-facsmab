@@ -1,6 +1,6 @@
 ---
 title: 15th Review Meeting
-permalink: /Publications/Past-Publication/15TH-REVIEW-MEETING-19TH-DEC-2013
+permalink: /publications/past-publication/15th-review-meeting-19th-dec-2013/
 third_nav_title: Past Publications
 ---
 ## **15TH FACSMAB Review Meeting**

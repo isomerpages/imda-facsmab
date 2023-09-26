@@ -1,6 +1,6 @@
 ---
 title: 1st Review Meeting
-permalink: /Publications/Past-Publication/1ST-REVIEW-MEETING-28TH-SEP-2004
+permalink: /publications/past-publication/1st-review-meeting-28th-sep-2004/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

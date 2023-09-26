@@ -1,6 +1,6 @@
 ---
 title: Copyright
-permalink: /Copyright/
+permalink: /copyright/
 ---
 ### **Copyright**
 **I. Intellectual Property Rights**

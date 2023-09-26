@@ -1,6 +1,6 @@
 ---
 title: 17th Review Meeting
-permalink: /Publications/Past-Publication/17th-Facsmab-Review-Meeting-18th-Feb-2016
+permalink: /publications/past-publication/17th-facsmab-review-meeting-18th-feb-2016/
 third_nav_title: Past Publications
 ---
 ## **17TH FACSMAB Review Meeting**

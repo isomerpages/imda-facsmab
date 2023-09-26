@@ -1,6 +1,6 @@
 ---
 title: FACSMAB
-permalink: /Events/
+permalink: /events/
 ---
 ## **FACSMAB 2023 Meeting Schedule**
 

@@ -1,6 +1,6 @@
 ---
 title: Sitemap
-permalink: /Sitemap/
+permalink: /sitemap/
 ---
 ### **Sitemap**
 + [Home](/)

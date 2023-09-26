@@ -1,6 +1,6 @@
 ---
 title: 11th Review Meeting
-permalink: /Publications/Past-Publication/11TH-REVIEW-MEETING-20TH-JAN-2011
+permalink: /publications/past-publication/11th-review-meeting-20th-jan-2011/
 third_nav_title: Past Publications
 ---
 ## **11TH FACSMAB Review Meeting**

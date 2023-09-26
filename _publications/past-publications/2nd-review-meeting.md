@@ -1,6 +1,6 @@
 ---
 title: 2nd Review Meeting
-permalink: /Publications/Past-Publication/2ND-REVIEW-MEETING-21ST-OCT-2005
+permalink: /publications/past-publication/2nd-review-meeting-21st-oct-2005/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

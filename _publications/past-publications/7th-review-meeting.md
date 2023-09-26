@@ -1,6 +1,6 @@
 ---
 title: 7th Review Meeting
-permalink: /Publications/Past-Publication/7TH-REVIEW-MEETING-1ST-JUL-2008
+permalink: /publications/past-publication/7th-review-meeting-1st-jul-2008/
 third_nav_title: Past Publications
 ---
 ## **Content To Be Updated**

@@ -1,6 +1,6 @@
 ---
 title: 19th Review Meeting
-permalink: /Publications/Past-Publication/19TH-Facsmab-Review-Meeting-26th-Apr-2018
+permalink: /publications/past-publication/19th-facsmab-review-meeting-26th-apr-2018/
 third_nav_title: Past Publications
 ---
 ## **19TH FACSMAB Review Meeting**
