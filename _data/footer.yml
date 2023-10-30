@@ -1,0 +1,20 @@
+contact_us: /contact-us/
+show_reach: false
+feedback: 
+navlinks:
+  - title: Home
+    url: /
+  - title: About us
+    url: /about-us/
+  - title: Events
+    url: /events/
+  - title: Publications
+    url: /publications/
+  - title: Sitemap
+    url: /sitemap/
+links:
+  - title: Copyright
+    url: /copyright/
+  - title: Disclaimer
+    url: /disclaimer/
+social_media: {}

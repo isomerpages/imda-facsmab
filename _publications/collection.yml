@@ -1,0 +1,29 @@
+collections:
+  publications:
+    output: true
+    order:
+      - latest-publication.md
+      - past-publications/.keep
+      - past-publications/overview.md
+      - past-publications/20th-review-meeting.md
+      - past-publications/19th-review-meeting.md
+      - past-publications/18th-review-meeting.md
+      - past-publications/17th-review-meeting.md
+      - past-publications/16th-review-meeting.md
+      - past-publications/15th-review-meeting.md
+      - past-publications/14th-review-meeting.md
+      - past-publications/13th-review-meeting.md
+      - past-publications/12th-review-meeting.md
+      - past-publications/11th-review-meeting.md
+      - past-publications/10th-review-meeting.md
+      - past-publications/9th-review-meeting.md
+      - past-publications/8th-review-meeting.md
+      - past-publications/7th-review-meeting.md
+      - past-publications/6th-review-meeting.md
+      - past-publications/5th-review-meeting.md
+      - past-publications/4th-review-meeting.md
+      - past-publications/3rd-review-meeting.md
+      - past-publications/2nd-review-meeting.md
+      - past-publications/1st-review-meeting.md
+      - newsroom.md
+      - photo-gallery.md
