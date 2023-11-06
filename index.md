@@ -4,7 +4,7 @@ title: FACSMAB
 description: null
 image: /assets/images/favicon.ico
 permalink: /
-notification: null
+notification: ""
 sections:
   - hero:
       background: /assets/images/main_banner5_r2.jpg
